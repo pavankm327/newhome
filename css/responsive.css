@@ -1,0 +1,1543 @@
+
+
+
+@media screen and (max-width:991px) and (min-width:320px) {
+	
+	.top-menu-sec ul li a {line-height: 1.7;
+    padding: 8px 0px 5px!important;}
+	.accordionBlock .accordion .accordion-heading a {font-size:14px!important;}
+	
+	
+.inner-hadding h1 {
+    font-size: 22px;
+    padding: 10px 0 10px;
+    line-height: 1.3;
+}
+.about_section .goverment_box {height:auto!important; padding-right:15px;}
+.colfull .img-fluid {width:100%; max-width: 98%!important;}	
+.about_campus .img-fluid {width:100%; max-width: 100%!important;}	
+.amity_logo img {width:200px!important;}
+
+.recognitions-accreditations-sec2 .tab-content:after {
+    content: "";
+    height: 0%;
+    width: 0%;
+    background-color: #cf6e5e;
+    left: 0%;
+    position: absolute;
+    top: 0;
+}
+
+.recognitions-accreditations-sec2 .tab-content:before {
+    content: "";
+    height: 0%;
+    width: 0%;
+    background-color: #cf6e5e;
+    left: 0%;
+    position: absolute;
+    top: 0;
+}
+a.text_link {color:#666;}
+.breadcrumb a {font-size:10px;}
+.breadcrumb  {font-size:10px;}
+.teaching-faculty-sec1 ul.row li.col-12 {top:50px;}
+.faculty-select-main input[type="text"] {margin: 5px 5px;}
+.rank_top h3 {color:#FFF;}
+.container.mt-5.pb-0.ranking_top { margin-top:1rem!important;}
+.inner-page p {font-size:14px;}
+.rank_top {padding:20px;}
+.rnaking_col .col {margin:15px;}
+.ranking_top h3 {padding-top:30px!important;}
+.ranking_top .pl-2 {padding-left:15px!important;}
+.rnaking_col h3 { margin-top:40px; margin-bottom:100px;}
+.top_placements  h3 {font-size:18px!important; padding-bottom:10px!important;}	
+ .row.mt-5.technology_box2.no-gutters {margin-bottom:30px; margin-top:15px!important;}
+.infra_it {padding:0!important;}
+.section-placements .placement-image-ad{-ms-flex:0 0 50%;flex:0 0 50%;}
+.section-placements .placement-image-ad img[src*="blank_logo"]{display:none;}
+.sub_head {font-weight:700;}
+.responsive-tabs-container.accordion-sm .accordion-link {display:block!important;}
+
+
+.col.placement-image-ad.black_logo {
+    display: none;
+}	
+.col.placement-image-ad.last {
+    flex: 0 0 100%;
+}
+
+.section-placements .border-top {margin-bottom:50px;}
+.bullet_list li {font-size:14px;}
+.w-100 {display:none;}
+
+
+
+.subscribe{ right: auto;
+    left: 0;
+    top: 200px;}
+.top_menubar{display:none}
+#mainNav.fixed-top{top:0}
+.home-sec1 .responsive-tabs-container .accordion-link,.home-sec3 .responsive-tabs-container .accordion-link,.testimonials_section .responsive-tabs-container .accordion-link{background:#fff;}
+.home-sec2 .theme-default a.nivo-nextNav{right:3%;}
+.responsive-tabs-container.accordion-sm .accordion-link{padding-left:20px;}
+.responsive-tabs-container .accordion-link:before{display:none;}
+.testimonials_section .responsive-tabs-container .tab-pane{padding-right:0px}
+.home-sec1,.home-sec3{ display:block;align-items:center;height:auto;}
+.home-sec4,.home-sec6{ display:block;align-items:center;min-height:auto;height:auto;}
+.home-sec6 .tab-content{padding-top:0}
+.visible-xs{display:block!important}
+.top-menu-sec ul li a{padding:9px 0 5px;margin:0 10px 0px 5px; font-size:12px;}
+.right_bar .container{margin-right:50px}
+.right_bar{top:auto;bottom:-1px;left:0;height:50px;width:100%;padding:0}
+.right_bar .right_bar_toggler{top:auto!important;bottom:14px;right:auto;left:15px}
+.right_bar_admission{right:0px;transform:rotate(0deg);bottom:0;left:0;margin:0 auto;width:200px;}
+.right_bar_search{right:8px;bottom:14px}
+.right_bar.open{height:100vh}
+.right_bar.open .menu_items>.row>div,.right_bar.open .admission_menu>.row>div{height:auto}
+#mainNav .navbar-toggler{padding:7px 8px;position:relative;z-index:10;border-radius:0;background:#292929;color:#fff;border:none;outline:none}
+#mainNav .navbar-toggler .fa-bars:before{content:'';background:url(../images/sprite.png) no-repeat 4px -302px;width:24px;height:23px;display:block}
+#mainNav .navbar-toggler.collapsed .fa-bars:before{content:'';background:url(../images/sprite.png) no-repeat 0 -453px;width:24px;height:23px;display:block}
+.navbar-collapse.main-menu{padding-top:65px}
+.navbar-collapse.show{margin-right:0;-webkit-transition: all .3s;-moz-transition: all .3s;transition: all .3s}
+.navbar-collapse.collapsing{position:absolute;height:100vh;overflow:hidden;transition: all .3s}
+#mainNav.navbar-shrink .navbar-collapse{top:-8px;}
+.navbar-collapse{display:block;background:#292929;max-width:300px;width:100%;height:100vh;position:absolute;top:-20px;right:0%;-webkit-transition: all .3s;-moz-transition: all .3s;transition: all .3s;margin-right:-300px;height:100vh;overflow:auto}
+#mainNav.navbar-shrink .ml-auto,.navbar-collapse .navbar-nav{margin:0}
+.navbar-collapse ul.navbar-nav li {line-height: 1.2!important;font-size: 14px!important;padding:0;display:block;margin:0;font-weight:700;text-transform:uppercase}
+.navbar-expand-lg .navbar-nav .nav-link {font-size:14px!important}
+.navbar-expand-lg .navbar-nav li a.nav-link,.navbar-expand-lg .navbar-nav li ul li a {border-top:1px solid #464646;padding:10px 25px;display:block}
+.navbar-expand-lg .navbar-nav li strong,.navbar-expand-lg .navbar-nav li ul li b {border-top:1px solid #464646;padding:10px 25px;display:block;color:#fff}
+.navbar-expand-lg .navbar-nav li ul li b{color:#eab716;}
+.navbar-expand-lg .navbar-nav li a strong{border-top:none;padding:0;display:block;color:#fff}
+.navbar-expand-lg .navbar-nav li ul li:first-child a {border-top:none;padding:10px 25px}
+.navbar-expand-lg .navbar-nav li a.nav-link:focus{color:#fff;}
+#mainNav .navbar-nav .nav-item a.apply_btn,.inner-nav#mainNav .navbar-nav .nav-item a.apply_btn{background:none;color:#dba921;margin:0}
+#mainNav.navbar-shrink .microsite_links{top:85px}
+#mainNav .navbar-nav .nav-item{font-weight:700}
+.inner-nav#mainNav .navbar-collapse a{color:#fff}
+.navbar-expand-lg .navbar-nav li ul li a{color:#fff;font-size: 14px;text-transform:none;font-weight:600}
+.hidden-xs,.span_icon{display:none!important;}
+.dropdown-toggle::after{transform:rotate(-90deg);float:right;margin:8px 0 0 0;-webkit-transition:all 0.3s;-moz-transition: all 0.3s;transition: all 0.3s;}
+.nav-item.show .dropdown-toggle::after{transform:rotate(0deg);}
+.navbar-expand-lg .navbar-nav .dropdown-menu{width:100%;height:0px;transition-property: all;transition-duration: .5s;transition-timing-function: cubic-bezier(0, 1, 0.5, 1);display:block;opacity:0;min-width:0;padding:0;margin:0;overflow:hidden;position:relative;background:none}
+.navbar-expand-lg .navbar-nav .dropdown-menu.show{height:auto;opacity:1;}
+.navbar-expand-lg .navbar-nav .dropdown-submenu .dropdown-menu{display:none;height:auto;opacity:1}
+.navbar-expand-lg .navbar-nav .dropdown-menu li{padding:0}
+.navbar-expand-lg .navbar-nav .dropdown-menu li a.link::after{transform:rotate(-90deg);float:right;margin:8px 0 0 0;-webkit-transition:all 0.3s;-moz-transition: all 0.3s;transition: all 0.3s;content:"";border-top:.3em solid;border-right:.3em solid transparent;border-left:.3em solid transparent;}
+.navbar-expand-lg .navbar-nav .dropdown-menu li a.link.active::after{transform:rotate(0deg);}
+.navbar-expand-lg .navbar-nav .dropdown-menu li .dropdown-menu{padding-bottom:10px;}
+.navbar-expand-lg .navbar-nav .dropdown-menu li .dropdown-menu li{padding:0 40px;color:#b3b3b3;}
+.navbar-expand-lg .navbar-nav .dropdown-menu li .dropdown-menu li.heading a{color:#b3b3b3!important;pointer-events:none;text-transform:uppercase}
+.navbar-expand-lg .navbar-nav .dropdown-menu li .dropdown-menu li ul li{padding:0 15px;}
+.navbar-expand-lg .navbar-nav .dropdown-menu li .dropdown-menu li a{padding:5px 0;font-weight:600;font-size:13px;border:none}
+.navbar-expand-lg .navbar-nav .dropdown-menu li .dropdown-menu li a.active{font-weight:700}
+.nav-item.hidden-xs{display:block!important;}
+.top-menu-sec ul,.top-menu-sec .clearfix,.inner-hadding .submenu{display:none}
+.home-sec2 .slider-wrapper{height:auto;}
+.navbar-light .main-menu li a.nav-link{ font-size:13px;padding:8px 15px;}
+.logo{width:150px;}
+.navbar-shrink .logo{width:44px;}
+.logo img{max-width:150px;}
+#mainNav .container{padding:0 15px}
+#mainNav .navbar-nav .nav-item a.apply_btn{margin-right:0}
+.right_bar .right_bar_toggler{top:33px}
+.right_bar.navbar-shrink .right_bar_toggler{top:17px}
+.home-sec1 .container,.home-sec3 .container,.home-sec4 .container,.home-sec6 .container {padding-left:15px;padding-right:15px;max-width:100%}
+.home-why-amity{margin:70px 0 0 50px;max-width:100%}
+.home-sec2-campus{padding-right:0}
+.home-ranking-amity{position:relative;max-width:100%;right:0;background:#202020;display:flex;align-items:center}
+h2,.inner_section.career_test .timeline .top_text,h2.heading{font-size:26px!important;}
+.home-why-amity h2{font-size:42px;}
+.why-amity-left h3,.inner_section.infra_security .full_box p,.why-amity-right h4,.infra_it .text,.infra_it .name,.teaching-faculty-sec1 ul li h3,.quality .bb_sing .text,.leadership .leader_part .text,.bankInfo ul li,.beyond_color .head3,.accommodation_testimonial p,.academia-sec4 h4{font-size:18px!important;}
+.why-amity-right{margin-top:70px}
+.why-amity-right h3{font-size:100px!important}
+.home-ranking-amity .owl-carousel1 ul{padding-top:40px!important}
+.home-ranking-amity .owl-carousel1 ul li{margin-bottom:30px}
+.home-ranking-amity .owl-carousel1 ul li p{padding-bottom:0;}
+.home-sec2-campus ul{display:flex}
+.home-sec2-campus ul h3{padding:12px;width:24%;font-size:18px!important}
+.home-sec2-campus ul li{width:24%}
+.home-ranking-amity .home-ranking-colm1{width:50%;float:left;background:#000}
+.home-ranking-amity .home-ranking-colm2{width:50%;float:left;position:relative;}
+.home-ranking-amity .owl-carousel1{display:block;}
+.home-ranking-amity .home-ranking-colm2{height:100%;display:flex}
+.home-ranking-amity .home-ranking-colm2 .owl-carousel2{height:100%;display:flex;align-items:center}
+.home-sec5 h2{font-size:50px;}
+h3{font-size:21px!important;    padding: 15px 0;}
+.home-sec5 p,.academia-sec7-left h4,.bankInfo ul li.head{font-size:18px}
+.testimonials-content h3{font-size:18px!important;padding-top:0px;}
+.testimonials_section .responsive-tabs-container .tab-pane{padding:20px 0}
+.testimonials-content p,.testimonials-content h4{font-size:14px}
+.inner-page .container, .responsive_tabs .responsive-tabs, .responsive_tabs .tab-container .tab-content{padding-right:15px;    padding-left:15px;}
+.inner-hadding h1{font-size:42px;padding:30px 0 10px}
+.research-inner-2 h5,.about_section .head{font-size:30px;}
+.accommodation_testimonial p{padding:35px 0px;}
+.accommodation_testimonial img,.academia-sec7 img,.infra_security .full_box img,.bg_brown2 img,.life-ul-img span,.infra_it .col-sm-6.d-flex img,.recognitions-accreditations-sec5 span,.legt_bg img{display:block}
+.infra_eateries .col-12.col-md-4.pt-3.px-5{padding:0 15px!important}
+.bg-lighter ul li{width:32.5%;padding:0 20px;min-height:122px}
+.bg-lighter ul li:first-child{border-left:3px solid #fecc00;}
+.bg-lighter ul li img{position:relative;top:auto;left:auto;display:block;margin-bottom:10px}
+.infra_lab_library .bg_brown2 .text-center.pr-5{padding-top:0!important;margin-top:10px!important}
+[class*=col].bg_brown2 .row{margin-top:30px}
+.inner_section.infra_security .full_box p{padding:20px 0px;}
+.inner_section.infra_security .full_box p .left,.accommodation_testimonial p .left{margin-bottom:10px}
+.inner_section.infra_security .full_box p .right,.accommodation_testimonial p .right{margin-top:10px}
+.inner_section.infra_security .full_box p b{padding:20px 0}
+.infra_it .mt-5.ml-5.mb-5{margin:30px 0!important}
+.infra_it .col-sm-6.d-flex{display:block!important}
+.infra_it .text{padding:20px 0;line-height:24px;}
+.infra_it .name{padding:10px 0 20px 0;}
+.recognitions-accreditations-sec3 .modal-body h4{padding-bottom:0;}
+.recognitions-accreditations-sec3 ul.bullet_list{padding-top:0;margin:0 0 30px;}
+.recognitions-accreditations-sec3 ul.bullet_list li{padding-bottom:0;}
+.tvcs-right-panel img{min-width:120px}
+.faculty-select-main{float:none;margin-top:0}
+.faculty-select{width:44.8%}
+.faculty-select-main .btn_submit{float:none;clear:both;width:26px;}
+.teaching-faculty-sec1 ul li h3{font-weight:400}
+.quality .bb_sing .text{padding:30px 40px 0; line-height:1.6}
+.leader_text,.leadership .leader_text p,.pro-ac{padding-right:0}
+.bullet_list li:before{top:30px}
+.education_loan .responsive_tabs .responsive-tabs.nav-tabs li a{padding-left:0;font-size:22px;padding-top:20px;}
+.education_loan .responsive_tabs .responsive-tabs.nav-tabs li a img{margin-top:0;}
+.legt_bg{background:none}
+footer {background:#151515}
+footer .container{padding-right:15px;max-width:100%}
+footer h3{font-size:16px!important;}
+footer .col-12{-ms-flex:0 0 33.33333%;flex:0 0 33.33333%;max-width:33.33333%;margin-bottom:20px}
+.input-ftr input{padding:5px 10px}
+.recognitions-accreditations-sec3 ul li,.recognitions-accreditations-sec5 li{-ms-flex:0 0 33.33333%;flex:0 0 33.33333%;max-width:33.33333%;margin-bottom:30px}
+.submenu [class*=col] .menubox{padding:0 0px 40px 0px}
+.submenu [class*=col] .menubox a.link{left:0}
+.infra_lab_biotechnology .bullet_list {-webkit-column-count:2;-moz-column-count:2;column-count:2;margin-bottom:50px;}
+.infra_security .full_box img,.infra_it .col-sm-6.d-flex img{min-height:100%;}
+.teaching-faculty-sec1 ul.row li.col-12{-ms-flex:0 0 33.33333%;flex:0 0 33.33333%;max-width:33.33333%;}
+.teaching-faculty-detail-sec1 .card-header{font-size:18px}
+.inner_section.infra_other_facility h3,.scheme-sec7-colm1 h3,.timeline ul li{font-size:18px!important;}
+.research .research-inner h5,.research .research-inner h5 span{font-size:56px}
+.course_info .bg_offwhite ul li{width:auto;padding:20px 0;margin:0 20px 0 40px}
+.course_info .bg_offwhite ul li strong{display:block}
+.course_info .bg_offwhite ul li:first-child{border-right:none;border-bottom:1px solid #7d7b75;padding-top:0}
+.course_applybtn + .accordionBlock{padding:0}
+.top-menu-sec h4{display:none}
+.institutional_logo ul li{width:24.4%}
+.global_international h3{text-align:left;}
+.bullet_list ul li span{width:18%}
+.ranking_bg{background-repeat:no-repeat}
+.top_placements .bullet_box ul {columns:inherit;-webkit-columns:inherit;-moz-columns:inherit;}
+.top_placements .bullet_box ul li{display:inline-block;vertical-align:top;width:30%;margin-right:2%}
+.responsive_tabs .responsive-tabs.nav-tabs li a{font-size:24px}
+.scholarship-scheme-sec6 ul li {-ms-flex:33.3333%;flex:33.3333%;max-width:33.3333%;margin-bottom:20px}
+.about_section .about_section1 p{padding-right:28%}
+.about_section .about_ranking h3{padding:40px 20px 0;}
+.about_section .amity_logo{padding-top:30px!important;padding-bottom:0px!important}
+.about_section .about_ranking p{padding:20px 20px 0!important}
+.rnaking_col .col{-ms-flex:28.7333%;flex:28.7333%;max-width:28.7333%;}
+.rnaking_col .w-100{display:none}
+.inner_section.programmes_detail .course_info p{font-size:16px}
+.beyond_color .head3{line-height:1.5}
+.top-home-sec1.row .col-12,.tab-home-content.row .col-12{max-width:100%;-ms-flex:0 0 100%;flex: 0 0 100%;}
+.top-home-sec1.row h2,.top-home-sec1.row p{text-align:center}
+.top-home-sec1 ul{padding:30px 0 0}
+.top-home-sec1 ul li:first-child{border-left:none}
+.tab-home-content{padding:20px 22px}
+.tab-home-content.row .search-bar{margin-top:20px}
+.tab-home-content ul li{font-size:16px}
+.why-amity-left,.why-amity-right{display:none}
+.home-sec3 h2{max-width:100%;text-align:center}
+.home-sec3 h2 span{display:inline}
+.home-sec3 .tab-content .row{display:block}
+.home-sec3 .responsive-tabs-container .tab-pane{margin-bottom:0;height:auto}
+.home-sec3 .tab-content .col-12{max-width:100%;-ms-flex:unset;flex:unset;padding:0 15px}
+.stu-life-ul2,.stu-life-ul{height:auto;padding-bottom:40px;margin-top:10px}
+.life-ul-img{height:50%;overflow: hidden;margin-bottom:10px}
+.life-ul-img img{display:block}
+.home-sec4 .col-12{max-width:100%;-ms-flex:0 0 100%;flex: 0 0 100%;}
+.home-sec4 h2{max-width:100%;text-align:center;padding-bottom:10px}
+.home-sec4 h2 span{display:inline}
+.home-sec4-colm1 h3{text-align:center;padding-bottom:30px}
+.home-sec4-colm1 ul li a{text-align:left;}
+.home-sec4-colm1 ul{border-bottom:1px solid #dee4f0;margin-bottom:30px}
+.home-sec4-colm3{max-width:100%}
+.home-sec4-colm3 .owl-carousel4 ul li{display:inline-block;vertical-align:top;width:48%;margin-left:15px;}
+.home-sec4-colm3 .owl-carousel4 ul li:first-child{margin-left:0px;}
+.home-sec5-carousel{padding:140px 40px 50px!important;}
+.student_achiv_home h2{top:40px;width:515px}
+.student_achiv_home .owl-nav {left:1%;top: 225px;}
+abbr.all-achiv-btn{bottom:20px;right:20px}
+.happ-content{padding:15px 15px 0}
+.happ-content h3{font-size:16px!important;}
+.happ-content h4{font-size:14px;}
+.happening-btn{margin-top:20px}
+.testimonials_section .container-fluid{padding:40px 15px}
+.right_bar.open.menubar{padding:0 15px 10px 0}
+.right_bar.open.menubar .mega_menu_left {display:none;}
+.right_bar.open.menubar .menu_items ul.mega_menu_nav li b{font-size:18px}
+.mega_menu_left .mega_menu_brand{text-align:left;}
+.mega_menu_left .mega_menu_brand img{max-width:170px}
+.mega_menu_nav_admission li{padding-bottom:20px}
+.mega_menu_nav_admission li a:before{zoom:0.5;-moz-transform:scale(0.5);-moz-transform-origin: 0 0;}
+.last_date h4{font-size:1.1rem}
+.last_date h5{font-size:1.2rem}
+.last_date p{font-size:1.5rem;max-width:300px;padding-bottom:10px;}
+.nivoSlider{height:auto}
+.nivo-caption h2{font-size:18px!important;}
+.nivo-caption .carousel-content{padding:15px 0}
+.theme-default .nivoSlider .nivo-caption img{max-width:50px;}
+.theme-default .nivo-controlNav{top:35%}
+.testimonials_section{height:auto}
+.admission_login .left_panel,.admission_login .right_panel{max-width:100%;-ms-flex:0 0 100%;flex:0 0 100%;padding-right:0!important}
+.admission_login .right_panel{margin-top:40px}
+.application_procedure .right_panel ul{padding-bottom:30px}
+.contact-list .col-12,.contact_number .col-12,.row.campus_program [class*=col-],.scholarship-scheme-sec5 .col-12,.scholarship-scheme-sec8 .col-12{-ms-flex: 0 0 50%;flex: 0 0 50%;max-width: 50%;}
+.contact_us .col-12.col-md-8,.contact_us .col-12.col-md-4,.colfull,.academia-sec1-main ul li,.academia-sec4 ul li,.over[class*="col-"]{max-width:100%;-ms-flex:0 0 100%;flex:0 0 100%;}
+.contact_us .col-12.col-md-4.pt-2{padding-top:50px!important}
+.contact_us .table_style{margin-bottom:30px}
+.contact_us img[src*=route-map]{margin-bottom:30px}
+.accordionBlock{padding:0;}
+.accordionBlock .accordion .accordion-body .accordion-inner{padding-left:35px}
+.academia-sec1 p{width:auto;float:none}
+.academia-sec1-main span{margin-top:50px;}
+.academia-sec3-right{padding:20px 25px 0 0}
+.academia-sec4-right{width:65%}
+.academia-sec4 ul li{margin-bottom:10px}
+.academia-sec5-left{padding:20px 0}
+.academia-sec5 img[src*=academia-img3]{margin-top:20px}
+.about_section .about_rank{width:140px;top:10px}
+.about_section .colfull{padding-right:0!important}
+.about_section .goverment_box{height:auto; border-bottom:0;}
+.about_section .about_world p{width:auto;position:relative}
+.responsive-tabs-container .tab-pane{padding:20px}
+.scholarship-sec3-right{padding-left:20px}
+.scholarship-scheme-sec3 ul li a{min-width:auto}
+.scholarship-scheme-sec5 {padding:0 0 30px}
+.scholarship-scheme-sec5 .col-12{padding:0 40px 40px}
+.scholarship-scheme-sec7 .col-12,.education_loan div[class*=col-],.live-counselling-sec2 ul li{max-width:100%;-ms-flex:0 0 100%;flex:0 0 100%}
+.scheme-sec7-colm1 h3,.scheme-sec7-colm1 h4,.scheme-sec7-colm1 p{text-align:left;}
+.scheme-sec7-colm2{min-height:200px;overflow:hidden}
+.over[class*="col-"]{margin-bottom:40px}
+.stalwarts_box2 .text_text{width:100%}
+.iconBox .colfull{padding:0!important}
+.careers-sec1 .career_box,.careers-sec1 .career_box2{padding:20px 0;height:auto;min-height:130px}
+.careers-sec1 .career_box p,.careers-sec1 .career_box2 p{padding-left:130px;position:relative;font-size:14px;}
+.careers-sec1 .career_box .img_left,.careers-sec1 .career_box2 .img_left{padding-bottom:0;position:absolute;top:0px;left:0px;margin:0;float:none}
+.careers-sec1 .career_box2{border-bottom:solid 1px #ccc;}
+.education_loan .responsive-tabs-container.accordion-sm .accordion-link img{display:none}
+.education_loan .responsive-tabs-container.accordion-sm .accordion-link br{display:none}
+.indust_section .bot_line {border-bottom:none;padding:0!important;margin-bottom:20px}
+.indust_section .bot_line .colfull{border-bottom: solid 1px #dfdfdf;padding:20px 15px 0}
+.blobal_guru h3{padding:0 50px}
+.owl-carousel11 .owl-stage-outer.owl-height{padding-bottom:50px}
+.global_guru_box {height:auto}
+.global_guru_box .head{font-size:18px;}
+.accordionBlock .accordion .accordion-heading a{font-size:18px}
+.accordionBlock .accordion .accordion-heading a:before{top:34px}
+.accordionBlock .accordion .accordion-heading a:after{top:24px}
+.infra_lab_biotechnology .pr-2,.infra_academy .pr-2,.infra_academy .pr-1{padding-right:15px!important}
+.infra_initiative ul.sport_event li{width:50%;}
+.infra_lab_library .bg_brown2 .text-center.pr-5{padding:0 20px!important;margin-top:0!important}
+.accommodation_testimonial img{min-height:100%}
+.live-counselling-sec1 .chatnow-box h4{padding:0 20px;font-size:18px}
+.hepline-line-number{padding:0 20px;}
+.hepline-line-number h4{font-size:18px}
+.live-counselling-sec2 ul li h5{font-size:18px}
+.live-counselling-sec2 ul li{margin-bottom:10px;padding:10px 0 10px 50px}
+.live-counselling-sec2 ul li a.link{bottom:17px;}
+.live-counselling-sec2 ul li:before{top:0}
+#colorbox, #cboxOverlay, #cboxWrapper{z-index:9999999999}
+.course_info{margin:40px 0 0}
+.course_info:before,.course_info:after{background:none}
+.course_info .bg-xs-yellow{background:#d7aa37}
+.course_info .bg-xs-brown{background:#2a251a}
+.quality .bb_sing{padding-left:210px;position:relative;}
+.quality .bb_sing img{max-width:200px;position:absolute;top:30px;left:30px;}
+.research-row-3 .row.mt-3,.research-inner-2.mt-5{margin-top:0!important}
+.research-inner-2.bt-5{margin-bottom:50px}
+.social_box .social_left{width:50%;margin-right:20px}
+.social_box .social_right{width:100%;float:none}
+.colfull .img-fluid{max-width:200px;}
+.social_box .amishta_box,.social_box .amishta_box2{padding-top:20px}
+.stalwarts_box{padding:0 20px}
+.stalwarts_box .text_text{font-size:18px}
+.tvcs-section .tvcs-inner .tvcs-inner-text{padding:10px}
+.tvcs-right-panel .col-7{max-width:100%;-ms-flex:0 0 100%;flex:0 0 100%;padding-top:10px!important}
+#mainNav .navbar-toggler,#mainNav.navbar-shrink .navbar-collapse{display:none;}
+#mainNav.navbar-shrink .mobile_nav .navbar-collapse{display:block;}
+.mobile_nav{display:block;}
+.navbar-shrink .mobile_nav .mobile_nav_icon{top:6px;}
+.mobile_nav .mobile_nav_icon{content:'';background:transparent url(../images/sprite.png) no-repeat 6px -446px;width:38px;height:38px;display:block;position:fixed;top:16px;right:20px;-webkit-transition:all .5s;-moz-transition:all .5s;transition:all .5s;z-index:10001}
+.mobile_nav .mobile_nav_icon.open{background:transparent url(../images/sprite.png) no-repeat 11px -296px;}
+#mainNav .navbar-collapse.menuopened{margin:0;z-index:10000}
+.mega_menu_nav_menu li{padding:14px 10px}
+.right_mega_menu ul li{font-size:14px;padding:10px}
+
+.home-sec6 .tab-content ul li { padding: 3px 15px;}
+.home-sec6 .tab-content ul li:first-child { padding: 3px 15px;}
+.home-sec6 .tab-content ul li:nth-child(2) { padding: 3px 15px;}
+.home-sec6 .tab-content ul li:nth-child(5) { padding: 3px 15px;}
+.home-sec6 .tab-content ul li:nth-child(4) { padding: 3px 15px;}
+.home-sec6 .tab-content ul li:last-child { padding: 3px 15px;}
+.navbar-expand-lg .navbar-nav li .dropdown-submenu .helpline b{padding:7px 0 0px;border-top:0;}
+.navbar-expand-lg .navbar-nav li .dropdown-submenu .helpline span{font-size:12px;display:block;padding-top:5px}
+
+
+
+}
+
+
+
+@media screen and (max-width:991px) and (min-width:768px){
+.student_achiv_home .home-sec5-carousel{min-height:310px}
+#carouselBanner .carousel-content{max-width:35%;padding:50px 0}
+#carouselBanner.owl-carousel .owl-item img{max-width:75px}
+#carouselBanner .owl-dots{left:31%}
+.happening-colm-color{min-height:200px;}
+.rnaking_col h3 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.row.align-items-start.mt-5.rnaking_col.no-gutters {    margin-top: 1rem!important;}
+
+.mobile_layout .row.pt-4{padding-top: 0rem!important;}
+.mobile_layout .container.mt-4.pb-3{    margin-top: 1.5rem!important;}
+.mobile_layout h3 {padding-bottom:0;}
+.sub_head { font-weight:700;}
+.mobile_layout .owl-carousel11 .owl-stage-outer.owl-height {padding-top: 10px!important; padding-bottom:20px!important; }
+.mobile_layout .indust_section .bot_line {margin-bottom:0px;}
+
+
+
+
+}
+@media screen and (max-width:1024px) and (min-width:768px) and (orientation: portrait){
+.theme-default .nivo-controlNav{top:21%}
+#carouselBanner .owl-dots{top:25%}
+.carousel-content{padding:0 20px 20px 5px}
+
+ 
+}
+@media screen and (max-width: 1600px) and (min-width: 992px){
+.theme-default .nivoSlider img,.home-sec5 .owl-carousel .owl-item img{height:calc(100vh - 65px)!important}
+}
+@media screen and (max-width: 1365px) and (min-width: 1025px){
+.home-sec3 .container,.home-sec1 .container,.home-sec4 .container,.home-sec6 .container{padding:0 35px}
+.home-sec4-colm3 .owl-nav{margin-left:20px}
+.testimonials-content h3{padding-top:100px}
+.testimonials_section{min-height:352px;height:auto}
+}
+@media screen and (max-width: 1279px){
+#carouselBanner .item{max-height:700px;}
+#mainNav .mega_menu { max-width: 88.6%!important;}
+}
+
+@media screen and (max-width: 1280px){
+.mega_menu .pl-5 {padding-left:0!important;}
+.mega_menu .menu_col4 {padding-left:35px!important;}
+.last_date2 h4 {font-size:22px;}
+.about_section .about_ranking h3 {font-size:22px;}
+h3 { font-size: 22px;}
+.inner-hadding h1 {font-size:40px;}
+.recognitions-accreditations-sec1 h2 { font-size:28px;}
+.submenu [class*=col] .menubox ul.row>li {font-size:14px;}
+.mega_menu .menu_boxx {font-size:14px;}
+ 
+
+}
+
+
+
+@media screen and (max-width: 1200px) and (min-width: 1025px){
+.home-sec2 .slider-wrapper{height:auto;}
+.navbar-light .main-menu li a.nav-link{ font-size: 14px;padding: 8px;}
+#mainNav .container{padding-left:20px}
+.home-sec1 .container,.home-sec3 .container,.home-sec4 .container,.home-sec6 .container {padding-left:20px;padding-right:35px;}
+.home-why-amity{margin:70px 0 0 50px;max-width:67%}
+h2,.inner_section.career_test .timeline .top_text,h2.heading{font-size:30px;}
+.home-why-amity h2{font-size:42px;}
+.why-amity-left h3,.inner_section.infra_security .full_box p,.why-amity-right h4,.infra_it .text,.infra_it .name,.teaching-faculty-sec1 ul li h3,.quality .bb_sing .text,.leadership .leader_part .text,.bankInfo ul li,.beyond_color .head3{font-size:18px;}
+.why-amity-right{margin-top:70px}
+.why-amity-right h3{font-size:100px!important}
+.home-ranking-amity .owl-carousel1 ul{padding-top:40px}
+.home-ranking-amity .owl-carousel1 ul li{margin-bottom:30px}
+.home-ranking-amity .owl-carousel1 ul li p{padding-bottom:0;}
+.home-sec2-campus ul{display:flex}
+.home-sec2-campus ul h3{padding:12px;font-size:16px!important}
+.home-sec2-campus ul li{width:20.3%}
+.life-ul-img{overflow: hidden;}
+.home-sec5 h2{font-size:50px;}
+h3{font-size:24px!important;}
+.home-sec5 p,.academia-sec7-left h4,.bankInfo ul li.head{font-size:21px}
+.testimonials-content h3{font-size:18px!important;padding-top:100px;}
+.inner-page .container, .responsive_tabs .responsive-tabs, .responsive_tabs .tab-container .tab-content{padding-right:70px;    padding-left:88px;}
+.inner-hadding h1{font-size:48px;}
+.research-inner-2 h5{font-size:30px;}
+.accommodation_testimonial p{padding:35px 40px;}
+.accommodation_testimonial img,.academia-sec7 img,.infra_security .full_box img,.bg_brown2 img,.life-ul-img span,.infra_it .col-sm-6.d-flex img,.recognitions-accreditations-sec5 span,.legt_bg img{display:block}
+.infra_eateries .col-12.col-md-4.pt-3.px-5{padding:0 15px!important}
+.bg-lighter ul li{width:32.5%;padding:5px 0 0 93px;min-height:70px}
+.infra_lab_library .bg_brown2 .text-center.pr-5{padding-top:0!important;margin-top:10px!important}
+[class*=col].bg_brown2 .row{margin-top:30px}
+.inner_section.infra_security .full_box p{padding:20px 0px;}
+.inner_section.infra_security .full_box p .left{margin-bottom:10px}
+.inner_section.infra_security .full_box p .right{margin-top:10px}
+.inner_section.infra_security .full_box p b{padding:20px 0}
+.infra_it .mt-5.ml-5.mb-5{margin:30px 0!important}
+.infra_it .col-sm-6.d-flex{display:block!important}
+.infra_it .text{padding:20px 0;line-height:24px;}
+.infra_it .name{padding:10px 0 20px 0;}
+.recognitions-accreditations-sec3 .modal-body h4{padding-bottom:0;}
+.recognitions-accreditations-sec3 ul.bullet_list{padding-top:0;margin:0 0 30px;}
+.recognitions-accreditations-sec3 ul.bullet_list li{padding-bottom:0;}
+.tvcs-right-panel img{min-width:120px}
+.faculty-select{width:140px}
+.teaching-faculty-sec1 ul li h3{font-weight:400}
+.quality .bb_sing .text{padding:30px 40px 0; line-height:1.6}
+.leader_text,.leadership .leader_text p{padding-right:0}
+.bullet_list li:before{top:30px}
+.education_loan .responsive_tabs .responsive-tabs.nav-tabs li a{padding-left:0;font-size:26px;padding-top:10px;}
+.education_loan .responsive_tabs .responsive-tabs.nav-tabs li a img{margin-top:0;}
+.legt_bg{background:none}
+footer h3{font-size:18px!important;}
+.inner_section.infra_other_facility h3{font-size:18px!important;}
+.ranking_bg{background-repeat:no-repeat}
+.home-sec3 .responsive-tabs-container .tab-pane{height:400px}
+
+.breadcrumb {display:block;}
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 1199px) and (min-width: 992px){
+.home-sec2 .slider-wrapper{height:auto;}
+.navbar-light .main-menu li a.nav-link{ font-size:12px;padding: 6px;}
+.logo{width:150px;}
+.navbar-shrink .logo{width:44px;}
+.logo img{max-width:150px;}
+#mainNav .container{padding-left:15px}
+#mainNav .navbar-nav .nav-item a.apply_btn{margin-right:22px}
+.right_bar .right_bar_toggler{top:33px}
+.right_bar.navbar-shrink .right_bar_toggler{top:17px}
+.home-sec1 .container,.home-sec3 .container,.home-sec4 .container,.home-sec6 .container {padding-left:15px;padding-right:35px;max-width:100%;}
+.top-home-sec1.row p{font-size:14px;line-height:1.4}
+.top-home-sec1 ul{padding-top:0px}
+.tab-home-content ul li{font-size:16px}
+.home-why-amity{margin:70px 0 0 50px;max-width:67%}
+h2,.inner_section.career_test .timeline .top_text,h2.heading{font-size:18px!important;}
+.home-why-amity h2{font-size:42px;}
+.why-amity-left h3,.inner_section.infra_security .full_box p,.why-amity-right h4,.infra_it .text,.infra_it .name,.teaching-faculty-sec1 ul li h3,.quality .bb_sing .text,.leadership .leader_part .text,.bankInfo ul li,.beyond_color .head3,.accommodation_testimonial p,.academia-sec4 h4{font-size:18px;}
+.why-amity-right{margin-top:70px}
+.why-amity-right h3{font-size:100px!important}
+.home-ranking-amity .owl-carousel1 ul{padding-top:40px}
+.home-ranking-amity .owl-carousel1 ul li{margin-bottom:30px}
+.home-ranking-amity .owl-carousel1 ul li p{padding-bottom:0;}
+.home-sec2-campus ul{display:flex}
+.home-sec2-campus ul h3{padding:12px;font-size:16px!important}
+.home-ranking-amity{max-width:300px}
+.home-sec2-campus{padding-right:350px}
+.home-sec2-campus ul li{width:20.3%}
+.home-sec2-campus ul li a{width:70%;margin:0 auto;border-right:none}
+.home-sec3 h2{max-width:210px}
+.home-sec3 .nav-tabs{margin-top:-86px}
+.life-ul-img{overflow: hidden;}
+.home-sec5 h2{font-size:50px;}
+h3{font-size:22px!important;}
+.home-sec5 p,.academia-sec7-left h4,.bankInfo ul li.head{font-size:18px}
+.testimonials-content h3{font-size:16px!important;padding-top:80px;}
+.testimonials-content img{height:100%}
+.testimonials-content p{font-size:14px;}
+.inner-page .container, .responsive_tabs .responsive-tabs, .responsive_tabs .tab-container .tab-content{padding-right:65px;    padding-left:15px;}
+.inner-hadding h1{font-size:36px;}
+.research-inner-2 h5,.about_section .head{font-size:25px;}
+.accommodation_testimonial p{padding:35px 40px;}
+.accommodation_testimonial img,.academia-sec7 img,.infra_security .full_box img,.bg_brown2 img,.life-ul-img span,.infra_it .col-sm-6.d-flex img,.recognitions-accreditations-sec5 span,.legt_bg img{display:block}
+.infra_eateries .col-12.col-md-4.pt-3.px-5{padding:0 15px!important}
+.bg-lighter ul li{width:32.5%;padding:0 20px;min-height:122px}
+.bg-lighter ul li:first-child{border-left:3px solid #fecc00;}
+.bg-lighter ul li img{position:relative;top:auto;left:auto;display:block;margin-bottom:10px}
+.infra_lab_library .bg_brown2 .text-center.pr-5{padding-top:0!important;margin-top:10px!important}
+[class*=col].bg_brown2 .row{margin-top:30px}
+.inner_section.infra_security .full_box p{padding:20px 0px;}
+.inner_section.infra_security .full_box p .left,.accommodation_testimonial p .left{margin-bottom:10px}
+.inner_section.infra_security .full_box p .right,.accommodation_testimonial p .right{margin-top:10px}
+.inner_section.infra_security .full_box p b{padding:20px 0}
+.infra_it .mt-5.ml-5.mb-5{margin:30px 0!important}
+.infra_it .col-sm-6.d-flex{display:block!important}
+.infra_it .text{padding:20px 0;line-height:24px;}
+.infra_it .name{padding:10px 0 20px 0;}
+.recognitions-accreditations-sec3 .modal-body h4{padding-bottom:0;}
+.recognitions-accreditations-sec3 ul.bullet_list{padding-top:0;margin:0 0 30px;}
+.recognitions-accreditations-sec3 ul.bullet_list li{padding-bottom:0;}
+.tvcs-right-panel img{min-width:120px}
+.faculty-select-main{float: right; margin-top: 16px;}
+.faculty-select{width:140px}
+.teaching-faculty-sec1 ul li h3{font-weight:400}
+.quality .bb_sing .text{padding:25px 25px 0; line-height:1.6}
+.leader_text,.leadership .leader_text p,.pro-ac{padding-right:0}
+.bullet_list li:before{top:28px}
+.education_loan .responsive_tabs .responsive-tabs.nav-tabs li a{padding-left:0;font-size:22px;padding-top:20px;}
+.education_loan .responsive_tabs .responsive-tabs.nav-tabs li a img{margin-top:0;}
+.legt_bg{background:none}
+footer h3{font-size:16px!important;}
+footer .col-12{margin-bottom:20px}
+.input-ftr input{padding:8px 10px;}
+.stu-life-ul{padding:20px 8px 10px}
+.recognitions-accreditations-sec3 ul li,.recognitions-accreditations-sec5 li{-ms-flex:0 0 33.33333%;flex:0 0 33.33333%;max-width:33.33333%;margin-bottom:30px}
+.submenu [class*=col] .menubox{padding:0 0px 40px 0px}
+.infra_lab_biotechnology .bullet_list {-webkit-column-count:2;-moz-column-count:2;column-count:2;margin-bottom:50px;}
+.infra_security .full_box img,.infra_it .col-sm-6.d-flex img{min-height:100%;}
+.teaching-faculty-sec1 ul.row li.col-12{-ms-flex:0 0 33.33333%;flex:0 0 33.33333%;max-width:33.33333%;}
+.teaching-faculty-detail-sec1 .card-header{font-size:18px}
+.inner_section.infra_other_facility h3,.scheme-sec7-colm1 h3,.timeline ul li{font-size:18px!important;}
+.research .research-inner h5,.research .research-inner h5 span{font-size:56px}
+.course_info .bg_offwhite ul li{width:auto;padding:20px 0;margin:0 20px 0 40px}
+.course_info .bg_offwhite ul li strong{display:block}
+.course_info .bg_offwhite ul li:first-child{border-right:none;border-bottom:0px solid #7d7b75;padding-top:0}
+.course_applybtn + .accordionBlock{padding:0}
+.top-menu-sec h4{float: left; display: inline-block;}
+.institutional_logo ul li{width:24.4%}
+.global_international h3{text-align:center;}
+.bullet_list ul li span{width:18%}
+.ranking_bg{background-repeat:no-repeat}
+.top_placements .bullet_box ul {columns:inherit;-webkit-columns:inherit;-moz-columns:inherit;}
+.top_placements .bullet_box ul li{display:inline-block;vertical-align:top;width:31%;margin-right:2%}
+.responsive_tabs .responsive-tabs.nav-tabs li a{font-size:15px; font-weight:400;}
+.scholarship-scheme-sec6 ul li {-ms-flex:33.3333%;flex:33.3333%;max-width:33.3333%;margin-bottom:20px}
+.about_section .about_section1 p{padding-right:28%}
+.about_section .about_ranking h3{padding:40px 20px 0;}
+.about_section .amity_logo{padding-top:30px!important;padding-bottom:0px!important}
+.about_section .about_ranking p{padding:20px 20px 0!important}
+.rnaking_col .col{-ms-flex:28.7333%;flex:28.7333%;max-width:28.7333%;}
+.rnaking_col .w-100{display:none}
+.inner_section.programmes_detail .course_info p{font-size:16px}
+.beyond_color .head3{line-height:1.5}
+.student_achiv_home .home-sec5-carousel{padding-top:150px;min-height:370px}
+.student_achiv_home .owl-nav{top:290px}
+.owl-carousel6 .owl-item{margin-right:10px}
+.testimonials_section .owl-dots{top:30%}
+.home-sec3 .responsive-tabs-container .tab-pane{height:330px!important}
+
+
+.programe_tabbing .nav-tabs li { width:24%;}
+.inner-hadding h1 {padding-top: 20px;  display: inline-block; float: left; font-size: 30px;}
+#mainNav.hasMegaMenu:before{max-width:71.6%;width:100%;left:auto;}
+.right_mega_menu ul li { padding: 10px 0; font-size: 13px;}
+.mega_menu .menu_boxx {font-size:13px;}
+.menu_nav ul li {font-size:13px; line-height:24px;}
+#carouselBanner .item {max-height:100%;}
+.mega_menu h4 {font-size:16px;}
+.mega_menu .nav-tabs .nav-item a.nav-link.active {font-size:16px;}
+.masthead .carousel-caption h2 {font-size:20px!important;    line-height: 24px;}
+.why-amity-left h3 {font-size:16px!important;}
+.home-ranking-amity { max-width: 235px;}
+.home-ranking-amity {height:94%;}
+.home-sec2 .carousel-indicators {width: 99%; bottom:65px;}
+.home-sec5-colm h4 {font-size:13px;}
+.home-sec3 .student-home span img {height:100%}
+.home-sec3 .student-home span {height:100%;}
+.home-sec3 .student-home .stu-span1 {height:242px;}
+.home-sec3 .student-home .stu-span1 img {height:100%}
+.academia-sec6 .career p {padding: 50px 50px 0px;}
+.head2.pt-5.mt-3 { padding-top: 10px!important;}
+.head3.pt-5 {font-size: 16px;}
+.left_bg_color .d-flex {display: -ms-flexbox!important; display: block!important;}
+.head2.pt-5 { padding-top: 10px!important;}
+.head3.pt-5 {font-size: 16px; padding-top: 25px!important;}
+.beyond_color  .d-flex {display: -ms-flexbox!important; display: block!important;}
+.head2 span {font-size:18px;}
+.direc p {padding-right: 0; padding-bottom: 10px; font-size: 16px;}
+.top_placements .pleace {font-size:18px;}
+.top_placements .pleace2 {font-size:18px;}
+.stalwarts_box { padding: 30px 20px 31px 50px;}
+.research-inner-2 h5, .about_section .head { font-size: 20px; font-weight: 500;}
+.indust_section .about_world p {font-size:14px;}
+.mega_menu .nav-tabs .nav-item a.nav-link.hover, .mega_menu .nav-tabs .nav-item a.nav-link.active{padding-bottom:30px}
+
+.submenu{margin:20px 0 0}
+.submenu [class*=col]{display:flex}
+.submenu [class*=col]:hover{display:flex}
+.submenu [class*=col] .menubox{border-bottom:3px solid #cfd0e7;padding:20px 10px 40px 15px;width:100%;position:relative;min-height:155px; border-top:solid 1px transparent; border-left:solid 1px transparent; border-right:solid 1px transparent;}
+.submenu [class*=col] .menubox:hover{border-bottom:3px solid #000000;padding:20px 10px 40px 15px;width:100%;position:relative;min-height:155px;  background:#e5eaee}
+ .menubox h5 {font-size:18px;}
+.submenu [class*=col] .menubox.active_box {border-bottom:3px solid #000000;padding:20px 10px 40px 15px;width:100%;position:relative;min-height:155px;  background:#e5eaee}
+
+.submenu [class*=col] .menubox .active{color:#194883;}
+.submenu [class*=col] .menubox a.link{background:url(../images/sprite.png) no-repeat 0px 0px;width:23px;height:11px;display:block;bottom:30px;position:absolute;right:16px}
+.submenu [class*=col] .menubox ul.row{margin-top:20px; margin-bottom:15px;}
+.submenu [class*=col] .menubox ul.row>li{font-size:14px;line-height:1.6}
+.submenu [class*=col] .menubox ul.row>li ul li{font-size:14px;font-weight:400;line-height:1.8;display:inline-block;vertical-align:top;width:32.3%;padding-left:18px;position:relative; padding:3px 10px}
+.submenu [class*=col] .menubox ul.row>li ul li:before{content:'';width:4px;height:4px;background:#000;border-radius:20px;top:11px;left:0;position:absolute;}
+.menubox h5 {font-size:14px;}
+h1.pb-1 { display: block; width: 100%;}
+.row.tab-panel.active { margin-right: 10px;}
+.program_list ul li.item .modal.show .modal-dialog {width:90%;}
+.program_list ul li.item .slide_content p { padding-right:0;}
+.course_list li>ul>li:first-child {width:24%;}
+.course_list li>ul>li { width:24%;}
+.top-menu-sec ul li a {font-size:13px;}
+.last_date h6 {font-size:16px;}
+.last_date h6 span {font-size:14px;}
+.course_info .bg_offwhite ul li:first-child {border-right: 1px solid #b28c11;}
+.course_info .bg_offwhite ul li {padding: 0 30px 0 40px;}
+.bg-xs-black_box {background: #303030; height: 206px;}
+.modal-header h3 {     font-weight: 300; font-size: 28px!important;}
+.mega_menu .menu_col4 { padding-left: 5px!important;}
+.top-home-sec1 ul li span { font-size:15px;}
+
+
+#mainNav.hasMegaMenu:before{max-width: 71%!important;width:100%;left:auto;}
+#mainNav .mega_menu {max-width:calc(99.2% )!important; right: 25px;}
+.mega_menu .menu_col4 {padding-left:20px!important;}
+.navbar-light .main-menu li a.nav-link { font-size: 12px!important; padding: .5rem 0.4rem!important;}
+.right_mega_menu ul li {padding:10px 0!important;}
+.mega_menu .nav-tabs .nav-item a.nav-link { font-size:16px!important;}
+
+#mainNav.inner-nav .mega_menu { max-width: calc(102.4% - 45px)!important; width: calc(132.3% - 18px);}
+.inner-page .container, .responsive_tabs .responsive-tabs, .responsive_tabs .tab-container .tab-content { max-width: 100%; width: 100%;  padding-right: 43px; padding-left: 55px;}
+
+.sbOptions {width:145px;}
+footer .container {padding-right: 40px; padding-left: 55px;}
+span.footer_collapse>.row>div[class*="col-"] { max-width: 22%; flex: 0 0 22%;}
+span.footer_collapse.col-12.col-md-10 { width: 85%!important;}
+.col-12.col-md-2.col-lg-2.col-xl-2.ftr-colm2 {width:15%!important;}
+.inner-hadding h1 {line-height:1.4;}
+.recognitions-accreditations-sec4 ul li a:hover{    opacity: 0.5;} 
+.recognitions-accreditations-sec3 ul li a:hover{    opacity: 0.5;} 
+.faculty-overview-sec1 h4 {font-size:16px;}
+.inner-page p {font-size:14px;}
+.faculty-overview-sec1 h2 {font-weight:700;}
+.faculty-overview-sec2 {padding-top:50px;}
+footer ul li a {font-size:12px; padding-bottom:5px;}
+footer h3 {font-size:14px!important;}
+footer p {font-size:10px;}
+footer h4 {font-size:14px;}
+.top-menu-sec ul li a {font-size:14px;}
+.rank_top h3 {color:#FFF;}
+.global_international p "{text-align:center;}
+.container.mt-5.pb-0.ranking_top { margin-top:1rem!important;}
+.section-placements .placement-inner-box { padding: 30px 0!important;}
+.global_international h3 {text-align: center!important;}
+.direc p {padding-bottom: 4px; font-size:13px!important;}
+.leadership1 {padding:0!important;}
+.about_section h3, .inner_section h3, .inner-page h3 {color: #194880;}
+.technology_box2 .d-flex {display: -ms-flexbox!important; display: block!important;}
+.technology_box2 p.pt-5.mt-5 {padding-top: 1rem!important}
+
+.program_list ul li.item .slide_content p strong { font-size:12px;}
+.program_list ul li.item .slide_content p a {font-size:12px;}
+.program_list ul li.item>a {font-size:16px;}
+.programe_tabbing .nav-tabs li { width:20%;}
+.programe_tabbing .nav-tabs li span {font-size:22px;}
+
+.menubox ul li a:hover {
+    color: #194883;
+    font-weight: 500;
+}
+.menubox .link_active {font-weight:500;}
+.infra-study-sec1 .row.mt-5 {margin-top: 1rem!important;}
+.bullet_list li {font-size:14px;}
+.recognitions-accreditations-sec2 .tab-content:before { content: ""; height: 100%; width: 9%; background-color: #cf6e5e; right: 100%;
+    position: absolute;  top: 0;}
+.recognitions-accreditations-sec2 .tab-content:after { content: ""; height: 100%; width: 4.6%; background-color: #cf6e5e; left: 100%;
+    position: absolute; top: 0;}
+.about_section .goverment_box {height:320px!important;}
+.recognitions-accreditations-sec3 h4 {font-size:16px;}
+.recognitions-accreditations-sec4 {margin-top:0px;}
+.academia-sec1-main ul li {font-size:14px;}
+.academia-sec3-right { padding: 20px 50px 0px 35px;}
+.academia-sec6 {padding:35px 0;}
+.academia-sec6 .career { padding:20px 0 45px;}
+.faculty-overview-sec1 h2 { font-weight: 700; font-size: 50px!important;}
+.faculty-overview-sec1 h4 {font-size:14px;}
+.faculty-overview-sec2 h4 {font-size:16px;}
+.leadership .leader_text p {padding-bottom:0;}
+.leadership .leader_name_box {
+    position: relative;
+    padding-top: 0;
+    padding-left: 0;
+    font-size: 24px;
+    font-weight: 300;
+}
+.beyond_color .head3 {font-size:16px!important; line-height:26px!important;}
+.name_head span {font-size:18px;}
+.top-menu-sec { padding-top:0;}
+.beyond_color .head {font-size:20px;}
+.container-fluid.beyond_color.mt-5 {margin-top: 1rem!important;}
+.leadership1 .row.pt-3 {    padding-top: 0.2rem!important;}
+.top_placements .pleace {font-size:16px;}
+.top_placements .pleace2 {font-size:16px;}
+.bullet_box.pt-5.pb-5 {    padding-top: 1rem!important;}
+.student_life .row.mt-5 {    padding-top: 0rem!important;    margin-top: 1rem!important;}
+.student_life .row.pt-3, .row.pt-4 {    padding-top: 0rem!important; }
+.social_box .text_text {font-size: 15px; line-height: 22px; padding-bottom: 12px;}
+.head2.pt-5.mt-3 {
+    padding-top: 0rem!important;
+}
+
+.testimonials-content h3 {padding-top:80px;}
+.academia-sec7-left h5 {font-size:18px; font-weight:500;}
+section.inner_section.pt-3.infra-study-sec1.infra_study {padding-top:0;    padding-top: 0rem!important;}
+section.inner_section.pt-3.infra_play {padding-top: 0rem!important;}
+p {padding-bottom: 10px;}
+.teaching-faculty-detail-sec1 .faculty-detail-faq {font-size:14px;line-height: 28px;padding-top: 0;}
+.teaching-faculty-detail-sec1 abbr {  font-size: 18px; padding-bottom: 10px;  font-weight: 600;}
+.teaching-faculty-detail-sec1 h4 {font-size:18px;    font-weight: 600;}
+.teaching-faculty-detail-sec1 h5 {font-size:18px;    font-weight: 600;}
+.teaching-faculty-detail-sec1 .card-header {font-size:18px;}
+.teaching-faculty-detail-sec1 h3 span {font-weight:600!important;}
+
+.col-md-12.col-md-12.col-lg-12.col-xl-12.technology_box h3 {padding-bottom:15px!important;}
+.section-placements .border-top {margin-top:10px!important;}
+.bullet_list.pt-3.mb-5 {padding-top: 0rem!important;}
+.leadership .leader_part .text {font-size:14px!important;}
+.col-sm-12.col-md-4.col-lg-6.col-xl-4.pt-5.pr-2.grooming {padding-top: 1.5rem!important;}
+.academia-sec7-left h4 {font-size:16px!important;}
+.stalwarts_box .text_text span {font-size:18px; font-weight:700;}
+.stalwarts_box .text_text {font-size:14px; font-weight:400;}
+.indust_section .bot_line p {padding-bottom:20px;}
+.indust_section .bot_line p.pt-4 {padding-top: 0.5rem!important;}
+.indust_section .bot_line p.pt-1 {padding-top: 0.60rem!important;}
+.row.no-gutters.pt-5.infra_lab_biotechnology {    padding-top: 1rem!important;}
+section.inner_section.pt-3.infra_lab_library {padding-top: 0rem!important;}
+section.inner_section.pt-3.infra_lab_library p.mt-5, h5.mt-5 {margin-top: 1.5rem!important;}
+.linkBox {padding:20px;}
+section.inner_section.pt-3.infra_lab_library p.mt-4 {margin-top: 1rem!important;}
+section.inner_section.pt-1.infra_lab_biotechnology p.pt-4 {padding-top: 1rem!important;}
+section.inner_section.pt-1.infra_lab_biotechnology .row.mt-3.mb-5 {margin-top: 0rem!important;    margin-bottom: 1rem!important;}
+section.inner_section.pt-3.infra_play.sangathan {padding-top: 1rem!important;}
+section.inner_section.infra_academy .row.mt-5, h3.mt-5, .col-md-12.mt-4, .row.mt-4 {margin-top: 1rem!important;}
+section.inner_section.infra_academy p.mt-5  {margin-top: 1.5rem!important;}
+section.inner_section.infra_live.accommodation  { padding: 10px 0 0;}
+section.inner_section.infra_live.accommodation .row.mt-5, .col-12.col-md-4.mt-5.pr-5, p.mt-5 {margin-top: 1rem!important;}
+.accommodation_testimonial {margin-top:30px;}
+section.inner_section.infra_live { padding: 10px 0 50px;}
+section.inner_section.infra_eateries  { padding: 10px 0 50px;}
+section.inner_section.infra_eateries .row.mt-5 {    margin-top: 1rem!important;}
+.inner_section.infra_other_facility h3 + p {margin-top:0;}
+.inner_section.infra_other_facility p {margin-top:10px;}
+.inner_section.infra_other_facility h3 {margin-top:20px;}
+.infra_it .designation, .infra_it .text {font-size:14px; line-height:24px;}
+.infra_it .text {font-size:14px;}
+.inner_section.infra_security .full_box p b {font-size:18px; font-weight:700;}
+.inner_section.infra_security .full_box p b em{font-size:14px;	}
+.inner_section.infra_security .full_box p {font-size:14px; font-weight:400;}
+h2.heading span {margin-bottom:40px; font-size: 21px;
+     
+    font-weight: 700;}
+section.inner_section.application_procedure {padding:10px 0;}
+.application_procedure .left_panel ul li strong {font-size:21px; color: #194880; font-weight: 700; }
+.help_line h3 {font-weight:700!important;    padding-bottom: 25px;}
+.accordionBlock .accordion .accordion-body p, .accordionBlock .accordion .accordion-body ul li {font-size:14px; font-weight:500;}
+.note {font-size:12px!important;}
+section.inner_section.jee_2018 h3.pt-5.pb-4, h3.pt-5 {padding-top: 1rem!important;}
+.responsive_tabs .responsive-tabs.nav-tabs li {min-height:70px;}
+.campus_program [class*=col-] p {padding:15px 0;}
+.infra_initiative ul.sport_event li {font-size:14px; font-weight:600}
+.col-12.col-md-4.pr-1.colfull {padding-left: 20px;}
+.bg-lighter ul li {font-size:14px;}
+p.text-center {font-size:16px;}
+.row.mt-5.amity_polo h3 {margin-top: 2rem!important;}
+.table_style td, .table_style th {font-size:14px;}
+ section.inner_section.scholarship-scheme-sec2.responsive_tabs h4 {font-size: 18px;}
+ .scholarship-scheme-sec4 h4 { font-size:18px;}
+ .scholarship-scheme-sec4 h5 {font-size:18px; font-weight:700;}
+ .scheme-sec5-content h4 {
+    padding: 16px;
+    font-size: 16px;
+    color: #194880;
+    padding-bottom: 15px;
+    font-weight: 600;
+}
+.scheme-sec5-content h5 {
+    padding: 0 15px;
+    font-size: 14px;}
+	.scheme-sec5-content p {
+    padding: 0 15px;
+    font-weight: 700;
+}
+section.scholarship-scheme-sec6 h3 {font-weight:700;}
+.scheme-sec7-colm2 img  {max-width:95%; float:right;}
+.scheme-sec7-colm1 h3 {font-size:14px!important;}
+.scheme-sec7-colm1 h4 {font-size:18px; font-weight:600}
+.scheme-sec7-colm2 h4 {font-size:14px; font-weight:600;}
+.scheme-sec7-colm2 h3 {font-size:14px!important;}
+.scholarship-scheme-sec3 ul li a, .scholarship-scheme-sec3 ul li span {font-size:16px;}
+section.inner_section.scholarship-scheme-sec1 {padding:0}
+section.inner_section.education_loan {padding:0;}
+.education_loan .responsive_tabs .responsive-tabs.nav-tabs li a {font-size:16px;}
+.education_loan .responsive_tabs .responsive-tabs.nav-tabs li a img {width:60px;}
+.responsive_tabs .responsive-tabs.nav-tabs li a {padding-bottom:30px;}
+.accordionBlock .accordion .accordion-heading a {font-size:16px;}
+.input-ftr input {font-size:12px;}
+div#ctl00_ContentPlaceHolder1_ulapply {padding-left:15px;}
+section.inner-page.about_section.indust_section.apply_now .sub_head.pt-3 { font-size:18px;}
+a.btn.btn-default {font-size:12px;}
+.stalwarts_box2 .text_text {padding:18px 0;  margin: 0;}
+.stalwarts_box2 .text_text span {font-size:14px; }
+.text_center img {height:80px;}
+.course_info p strong {font-weight:700;}
+.application_procedure .left_panel ul li p+span { margin-top:30px;}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1200px){
+.container, .responsive_tabs .responsive-tabs,.responsive_tabs .tab-container .tab-content {max-width: 1470px; width:100%;}
+.navbar-light .main-menu li a.nav-link{ font-size: 14px;padding: 8px;}
+.masthead .carousel-caption h2{ font-size: 32px; padding-top: 5px; padding-bottom: 5px;}
+.carousel-content{padding-bottom: 20px;}
+.logo img{width:212px;}
+.home-sec2 .container{padding:0; padding-right: 50px;}
+.responsive-tabs-container .tab-pane{opacity:0;position:relative;-webkit-transition:all .6s;-moz-transition:all .6s;transition:all .6s;}
+.responsive-tabs-container .tab-pane.selected,.responsive-tabs-container .tab-pane.active1{opacity:1;}
+body.landing_page{height:100vh;overflow:hidden;}
+.global_international h3 {
+    text-align: center!important;
+}
+
+
+}
+@media (max-width: 1470px) and (min-width:992px) {
+.home-sec2 .slider-wrapper{height:calc(100vh - 65px)}
+.home-sec3 .responsive-tabs-container .tab-pane{height:400px}
+#mainNav .mega_menu{right: 25px;}
+.close_btn{top:40px;right:16px}
+.navbar-shrink .close_btn{top:27px;right:15px}
+.right_bar.open .menu_items>.row>div{padding-top:18px;-webkit-transition:all 0.2s;-moz-transition:all 0.2s;transition:all 0.2s;}
+.right_bar.open.navbar-shrink .menu_items>.row>div{padding-top:4px}
+ 
+#mainNav.hasMegaMenu:before{/* max-width: 71%; */width: 71%;left:auto;}
+.menu_col4{padding-left:15px}
+.home-sec5 h2 {
+    font-size: 36px;
+}
+
+.last_date2 { padding:0% 15px 32px 0px;;}
+.last_date2 h4 {font-size:18px;padding-bottom: 15px;}
+.last_date2 h4 span {padding:0; font-size:14px;}
+.last_date2 p span.date {padding:0;font-size: 14px; margin:0; font-weight:400;}
+.last_date2 p {font-size:13px;}
+.last_date span {font-size:13px; line-height:24px;}
+.top_megamenu .last_date span {font-size:13px; line-height:24px;}
+.top_megamenu .last_date h6, .top_megamenu .menu_items ul li b {font-size:16px;}
+.last_date h6 {font-size:16px; padding-bottom:5px;    padding-top: 30px;}
+.right_bar.open.menubar .menu_items ul.mega_menu_nav li b {font-size:16px;}
+.timeline ul li {font-size:18px;}
+.last_date2 h6 span {padding-top:0;}
+.last_date2 h6 {padding-top:0;}
+.help_line span { display:block;}
+.help_line span abr {float:right;}
+.top_menubar>ul>li>a{padding-bottom:8px}
+
+
+
+
+}
+
+
+
+@media (max-width: 5400px) and (min-width: 1441px){
+	
+	.home-ranking-amity{ right:60px;}	
+.home-sec2 .carousel-indicators{width: 73.4%;}
+.home-sec6 .nav-tabs {padding-left:0;}
+.home-sec6 .nav-tabs li a {margin-right:32px;}
+.happening-colm-img span {height:310px;}
+
+
+.course_list li>ul>li {width:14%; }
+.course_list li>ul>li:first-child { width: 14%; padding: 0 28px; }
+.program_list ul li.item {font-size:22px!important;}
+.course_info .bg_offwhite ul li span {color:#000; font-weight:900;}
+.course_info:before {background: linear-gradient(to bottom,#ffffff 0%,#ffffff 46.4%,#3B3B3A 46.4%,#3b3b3b 46.4%,#3b3b3b 100%); left: 0; width: 74%;}
+
+.navbar-expand-lg .navbar-nav .nav-link{font-size:1.24rem;padding: .5rem 1.3rem}
+.right_bar_admission{font-size:1.8rem;right: -91px;bottom: 91px;padding:12px 45px 12px 15px;}
+.right_bar_admission .fa{bottom:30px;}
+.right_bar_admission.clicked .fa{bottom: 23px;right: 18px}
+.right_bar_search{bottom: 255px;right: 15px;}
+.right_bar .right_bar_toggler{right: 16px;}
+.right_bar{width:62.5px;}
+.container.admission_menu{width:100%;max-width:100%;margin: 0;padding-right: 62.5px;}
+#mainNav .microsite_links li{font-size: 1rem;}
+.mega_menu_nav_admission li{padding-bottom: 2rem;  font-size: 18px;}
+.student_section .headIng {font-size:24px; font-weight:300; line-height:36px; padding-right:50px; padding-bottom:30px;}
+.close_btn{top:40px;right:16px}
+.navbar-shrink .close_btn{top:27px;right:15px}
+.right_bar.open .menu_items>.row>div{padding-top:18px;-webkit-transition:all 0.2s;-moz-transition:all 0.2s;transition:all 0.2s;}
+.right_bar.open.navbar-shrink .menu_items>.row>div{padding-top:4px}
+.tab-home-sec1{padding-top:100px}
+
+.last_date2 p {font-size:14px;}
+.last_date2 p span.date{margin:0;}
+
+
+}
+
+
+.tab-home-content {padding:70px 90px 50px 90px}
+.tab-home-sec1 .nav-tabs li a {
+    font-size: 28px;
+    background-color: #fff;
+    width: 100%;
+    padding: 30px;
+    text-align: center;
+    display: block;
+    font-weight: 600;
+}
+.tab-home-content .submit-btn {width:8%;}
+.tab-home-content input {width:90%;}
+.tab-home-content h3 {text-align:right;}
+.home_search_btn a {color: #87bdd5; }
+.home_search_btn  {display: inline-block; padding: 45px 0 0; color: #87bdd5; font-size: 20px;    width: 100%;}
+
+.responsive-tabs-container .tab-pane {margin-bottom:0;}
+.home-ranking-amity {right:0;}
+.tag_line_bold {font-weight:600!important;}
+.sterco {font-size:10px; font-weight:600}
+footer h4 {
+    padding-bottom: 2px;
+    font-size: 14px;
+}
+
+.technology_box a:hover {opacity: 0.8;}
+.sub_head {font-weight:700;}
+.program_list {
+    border-top: 1px solid #d8d8d8;
+    margin-top: 10px;
+}
+.programe_tabbing .nav-tabs li { width:20%;}
+.text_over a:hover {color:#000!important; font-weight:normal!important;}
+.text_over {color:#000!important; font-weight:normal!important;}
+.linkBox a:hover { opacity: 0.5;}
+h3.pb-0.leader_text_box2 {color:#000;}
+.blobal_guru h3 {text-align:left!important; padding: 0px!important; }
+.social_ins .container.mt-4.mb-4.pb-3.social_box {    margin-top: 0rem!important;}
+
+.teaching-faculty-detail-sec1 abbr {  font-size: 18px; padding-bottom: 20px; font-weight: 600; padding-top:10px;}
+.teaching-faculty-detail-sec1 h4 {font-size:18px; padding-bottom: 20px; font-weight: 600; padding-top:10px;}
+.teaching-faculty-detail-sec1 h5 {font-size:18px; padding-bottom: 20px; font-weight: 600; padding-top:10px;}
+.teaching-faculty-detail-sec1 .card-header {font-size:18px;}
+.teaching-faculty-detail-sec1 h3 span {font-weight:700!important; font-size:22px;}
+.teaching-faculty-detail-sec1 h3 {padding-bottom:15px;}
+.main_global .top_text h3 {padding: 15px 25px;}
+.main_global .top_text {padding:0;}
+.leadership .leader_img {padding-top:65px;}
+.row.no-gutters.pt-5.bot_line.blobal_guru .about_lib .owl-nav { top:-41px;}
+.owl-carousel12 .owl-stage-outer.owl-height {padding-top: 40px!important;}
+.about_world.text p {width:90%;}
+.about_world.text p.pt-3 {width:97%;}
+
+.application_procedure .left_panel ul li strong {font-size:21px; color: #194880; font-weight: 700; }
+.help_line h3 {font-weight:700!important; font-size:21px;   padding-bottom: 25px;}
+.note {font-size:14px}
+a.text_link:hover {    opacity: 0.5;}
+.col-md-6.bod_bott_amity {border-top: solid 1px #dedede; border-bottom: solid 1px #dedede; padding:15px; margin-bottom: 15px;}
+.bullet_list li em { padding-top:5px;}
+
+div#ctl00_ContentPlaceHolder1_ulapply {
+    padding-left: 15px;
+}
+.application_procedure .left_panel ul li p+span { margin-top:30px;}
+
+
+
+
+
+@media screen and (min-width:3000px) and (max-width: 5400px){
+#mainNav.hasMegaMenu:before{width: 45.2%!important;left:auto;}	
+#mainNav .mega_menu{max-width: 100%!important;width: 180.4%;}
+.right_mega_menu ul li {padding:16px 0;}
+.row.no-gutters.menu_col4.pl-5.ml-3 {
+    padding-left: 0!important;
+    margin-left: 0!important;
+}
+.home-ranking-amity {right:0;}
+.about_section .goverment_box {height:auto;}
+.row.no-gutters.menu_col4.pl-5.ml-3 {
+    padding-left: 40px!important;
+    margin-left: 0!important;
+}
+
+}
+
+@media screen and (min-width:2500px) and (max-width: 2999px){
+#mainNav.hasMegaMenu:before{width: 53%!important;left:auto;}	
+#mainNav .mega_menu{max-width: 100%!important;width: 180.4%;}
+.right_mega_menu ul li {padding:16px 0;}
+ .row.no-gutters.menu_col4.pl-5.ml-3 {
+    padding-left: 38px!important;
+    margin-left: 0!important;
+}
+.home-ranking-amity {right:0;}
+.about_section .goverment_box {height:auto;}
+
+.students .owl-carousel .owl-item img { height:352px; width:auto;}
+.alumni .owl-carousel .owl-item img { height:352px; width:auto;}
+.parents .owl-carousel .owl-item img { height:352px; width:auto;}
+.testimonials_section {height:352px;}
+.teaching-faculty-sec1 ul li img {
+    width: 100%;
+    height: 243px;
+}
+}
+
+
+@media (max-width: 1920px){ 
+#mainNav.hasMegaMenu:before{max-width: 71%!important;width:100%;left:auto;}
+#mainNav .mega_menu {max-width:calc(103.9% - 12px)!important; right: 0;}
+.row.no-gutters.menu_col4.pl-5.ml-3 { padding-left: 0!important; margin-left: 0!important;}
+.home-ranking-amity {right:0!important;}
+.home-sec2 .carousel-indicators { width: 78%; bottom: 64px; left: 6%!important;}
+.secon_banner_campus {bottom:64px!important; padding:16px 0 41px 18px!important; width:7%;}
+.banner_text {bottom:170px;}
+.home-sec2 .carousel-indicators li a {    padding: 9px 0px 41px 0!important;}
+.students .owl-carousel .owl-item img { height:352px; width:auto;}
+.alumni .owl-carousel .owl-item img { height:352px; width:auto;}
+.parents .owl-carousel .owl-item img { height:352px; width:auto;}
+.testimonials_section {height:352px;}
+.testimonials_section .nav-tabs {left:22%;}
+.teaching-faculty-sec1 ul li img {
+    width: 100%;
+    height: 325px;
+}
+.about_section .goverment_box {height:355px;}
+
+
+
+
+}
+
+@media (max-width: 1600px){ 
+#mainNav.hasMegaMenu:before{max-width: 71%!important;width:100%;left:auto;}
+#mainNav .mega_menu {max-width:calc(106% - 12px)!important; right: 0;}
+.manu_nav ul{padding-right:30px;}
+.mega_menu .menu_col4 {padding-left:50px!important;}
+.right_mega_menu ul li {padding:10px 0!important;}
+ 
+ 
+
+.home-sec2 .carousel-indicators { width: 77%!important; bottom: 64px; left: 7%!important;}
+.secon_banner_campus {bottom:64px!important; padding:16px 0 41px 18px!important; width:7%;}
+.banner_text {bottom:170px;}
+.home-sec2 .carousel-indicators li a {    padding: 9px 0px 41px 0!important;}
+.leadership1 {padding:0!important;}
+
+}
+
+@media (max-width: 1440px){ 
+#mainNav.hasMegaMenu:before{max-width: 71%!important;width:100%;left:auto;}
+#mainNav .mega_menu {max-width:calc(103.4% - 12px)!important; right: 25px;}
+.mega_menu .menu_col4 {padding-left:50px!important;}
+.navbar-light .main-menu li a.nav-link { font-size: 14px!important; padding: .5rem 1.1rem;}
+.right_mega_menu ul li {padding:12px 0!important;}
+.tab-home-sec1 .nav-tabs li a {font-size:20px; padding:15px;}
+.tab-home-content {padding: 30px 90px 30px 90px;}
+.tab-home-content h3 {font-size:30px;}
+.home-sec2 .carousel-indicators {left:7%!important;}
+.home-sec2 .carousel-indicators li {padding:0 22px;}
+.teaching-faculty-sec1 ul li img {height:25x0px;}
+.sbOptions {width:145px;}
+.section-placements .placement-inner-box {
+    padding: 30px 0!important;}
+	.technology_box p {padding-right:0;}
+	
+.beyond_color .head3 {font-size:20px; line-height:30px;}	
+.sub_head {font-size:28px;}
+section.inner_section.infra_eateries .row.mt-5 { margin-top: 1rem!important;}
+section.inner_section.infra_eateries, section.inner_section.infra_live.accommodation {padding:20px 0;}
+section.inner_section.infra_live.accommodation.bot_space {padding-bottom:0;}
+.container-fluid.accommodation_testimonial.bot_space {padding-bottom:0;}
+section.inner_section.infra_live.accommodation .row.mt-5, .col-12.col-md-4.mt-5.pr-5, p.mt-5 { margin-top: 1rem!important;}
+.accommodation_testimonial {margin-top: 30px;}
+
+
+}
+ 
+@media (max-width: 1400px){ 
+#mainNav.hasMegaMenu:before{max-width: 71%!important;width:100%;left:auto;}
+#mainNav .mega_menu {max-width:calc(103.1% - 12px)!important; right: 25px;}
+.mega_menu .menu_col4 {padding-left:30px!important;}
+.navbar-light .main-menu li a.nav-link { font-size: 13px!important; padding: .5rem 1.1rem;}
+.right_mega_menu ul li {padding:11px 0!important;}
+.tab-home-sec1 .nav-tabs li a {font-size:20px; padding:15px;}
+.tab-home-content {padding: 40px 140px 40px 140px;}
+.tab-home-content h3 {font-size:30px;}
+.home_search_btn  {display: inline-block; padding: 30px 0 0; color: #87bdd5; font-size: 20px;    width: 100%;}
+.home-sec1{height:92vh;}
+.home-sec2 .carousel-indicators li{ padding: 0 20px;}
+.students .owl-carousel .owl-item img { height:350px; width:auto;}
+.alumni .owl-carousel .owl-item img { height:350px; width:auto;}
+.parents .owl-carousel .owl-item img { height:350px; width:auto;}
+.home-sec5 span img {height:210px;}
+h3 {font-size: 24px;}
+.leadership1 {padding:0!important;}
+.about_section h3, .inner_section h3, .inner-page h3 {
+    color: #194880;
+}
+
+
+}
+ 
+ 
+ 
+ 
+@media (max-width: 1280px){ 
+#mainNav.hasMegaMenu:before{max-width: 71%!important;width:100%;left:auto;}
+#mainNav .mega_menu {max-width:calc(101.7% - 12px)!important; right: 25px;}
+.mega_menu .menu_col4 {padding-left:20px!important;}
+.navbar-light .main-menu li a.nav-link { font-size: 12px!important; padding: .5rem 1.1rem;}
+.right_mega_menu ul li {padding:10px 0!important;}
+.row.no-gutters.menu_col4.pl-5.ml-3 {padding-left: 1.6rem!important;}
+.col-md-12.pr-2.pl-5.ml-3 {padding-left: 1.6rem!important;}
+a.nav-link {font-size:16px!important;}
+.font-18 {font-size: 18px!important;}
+.mega_menu .bullet_menu li {font-size:13px;}
+.mega_menu .menu_text {font-size:13px;}
+
+.tab-home-sec1 .nav-tabs li a {font-size:24px; padding:20px;}
+.tab-home-content {padding: 40px 90px 40px 90px;}
+.tab-home-content h3 {font-size:30px;}
+.home-sec1, .home-sec3 {height:92vh;}
+.home-sec2 {height:92vh;}
+.home-sec2 .carousel-indicators li { padding: 0 13px;}
+
+.home-sec2 .carousel-indicators { width: 78%; bottom: 64px; left: 7%!important;}
+.secon_banner_campus {bottom:64px!important; padding:16px 0 53px 12px!important; width:7%;}
+.banner_text {bottom:170px;}
+.home-sec2 .carousel-indicators li a {padding: 12px 0 51px 0!important;}
+
+.students .owl-carousel .owl-item img { height:352px; width:auto;}
+.alumni .owl-carousel .owl-item img { height:352px; width:auto;}
+.parents .owl-carousel .owl-item img { height:352px; width:auto;}
+.testimonials_section {height:352px;}
+.home-sec5 span img {height:auto}
+
+.technology_box p.pt-4, p.pt-3 {padding-top: 0rem!important;}
+.direc p {padding-bottom: 4px; font-size:14px;}
+.direc p.pt-4, p.pt-3 {padding-top: 0.8rem!important;}
+.beyond_color .head3 {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 26px;
+    padding-right: 70px;
+}
+.beyond_color .d-flex {display: block!important;}
+.head3.pt-5.pl-4 {padding-top: 1.8rem!important;}
+.head2.pt-5.pl-4 {padding-top: 1.8rem!important;}
+.head2.pt-5.mt-3 {padding-top: 0.9rem!important;}
+.about_section h3, .inner_section h3, .inner-page h3 {
+    color: #194880;
+}
+.programe_list_box {width:47%;}
+
+}
+ 
+@media (max-width: 1024px){
+ .head2.pt-5.mt-3 {padding-top: 0rem!important;}
+ .head3.pt-5.pl-4 {padding-top: 0.8rem!important;}
+ 
+}
+
+
+@media (min-width: 1470px){
+.home-sec2 .home_slider_text{ padding-top:50px;}
+.home-sec2 .why-amity-left{ padding-left:50px;}
+ 
+.home-sec2 .theme-default a.nivo-nextNav {right: 450px;}
+.happening-colm-color{min-height: 280px;}
+.masthead .carousel-caption .container{max-width:100%; }
+.masthead .carousel-indicators-main .container { max-width: 100%;}
+.container, .responsive_tabs .responsive-tabs,.responsive_tabs .tab-container .tab-content {max-width: 1470px; width:100%; }
+#mainNav .container{padding:0;max-width:100%; padding-left:60px; padding-right:65px;}
+.top_menubar .container,.top_megamenu .container.admission_menu, .top_megamenu .container.menu_items{max-width:100%; padding-left:60px; padding-right:60px;}
+.masthead .carousel-caption .container .col{padding-left:60px;}
+#mainNav .navbar-nav .nav-item a.apply_btn{margin-right: 0;}
+.navbar-light .main-menu li a.nav-link { font-size:20px;}
+.masthead .carousel-caption h2{ font-size:36px;padding-top: 30px;}
+.masthead .carousel-indicators{padding-left: 29%;}
+.carousel-content{padding-bottom: 50px;padding-left: 0;}
+.home-sec2 .container{ padding:0; padding-right:0px;}
+.home-why-amity h2{ font-weight:900; font-size:56px; color:#fff; padding-bottom:15px; text-transform:uppercase;text-align:right;}
+.why-amity-left h3{ font-size:26px; font-weight:300; color:#fff; text-align:right;line-height: 1.5; padding-bottom:30px;}
+.why-amity-right h4{ font-size:26px; font-weight:600; color:#fff; width:70%;}
+.why-amity-right h3{ font-size:160px; font-weight:900; color:#fff; width:100%; line-height:120px;}
+.home-ranking-amity .owl-carousel1 ul li h3{ font-size:48px; color:#fff;}
+.why-amity-right{min-height: 200px;}
+.home-why-amity{max-width: 1040px;}
+.home-sec2-campus{    padding-right: 429px;}
+.home-sec2 .owl-nav .owl-prev{ right:460px;}
+.home-ranking-amity{right: 60px;}
+.home-sec5 .container {padding-left: 0px; padding-right: 0px;}
+.happ-content h3{ font-size:30px;}
+.testimonials_section .container-fluid{ padding-right:0;}
+.testimonials-content h3{font-size: 30px!important;padding-top: 130px;}
+.testimonials_section .owl-dots{ right: -15px;}
+footer .container { padding-right: 0px;}
+.responsive_tabs .responsive-tabs.nav-tabs li a{font-size:36px;}
+.event_detail h4,.bg-lighter ul li,.btn-style span{font-size:18px;}
+.stu-life-ul li a{ font-size:18px; }
+
+.bullet_list li{padding-top:30px}
+.bullet_list li:before{top:40px}
+.infra_lab_biotechnology .bullet_list li:before{top:27px}
+.inner-page p{font-size: 18px;line-height: 1.6;}
+.inner-page ul li{ font-size: 18px;}
+.academia-sec5-left{ padding-left:0;}
+.top-menu-sec h4{ font-size:18px;margin-top: 12px;}
+.top-menu-sec ul li a{font-size:18px;padding: 12px 15px;padding-bottom: 25px;}
+.inner-hadding h1 {padding-top: 60px;padding-bottom: 30px; font-size: 60px;}
+.scholarship-scheme-sec5{ margin-top: 76px;}
+.teaching-faculty-detail-sec1 .faculty-detail-faq ul li{ font-size:18px;}
+.teaching-faculty-detail-sec1 .faculty-detail-faq ul li:before{ top:10px;}
+.academia-sec2 h4,.academia-sec3 h3,.academia-sec4 h3,.academia-sec5 h3,h3,.bankInfo ul li.head{font-size:30px;}
+.academia-sec1 h2,.academia-sec2 h2,h2.heading,h2{font-size:36px}
+.application_procedure .left_panel ul li{font-size:18px;}
+.application_procedure .left_panel ul li strong{font-size:36px;}
+.application_procedure .right_panel h3,.program_list ul li:first-child{font-size:30px;}
+.application_procedure .right_panel ul li,.alert-primary.inline,.accommodation_testimonial p,.inner_section.infra_other_facility h3,h4,.accordionBlock .accordion .accordion-body h4{font-size:24px;}
+.btn-default {font-size:20px;}
+.accordionBlock .accordion .accordion-body p,.table_style td,.table_style th{font-size:18px;}
+.accordionBlock .accordion .accordion-body ul li{font-size:18px;}
+.accordionBlock .accordion .accordion-body ul.bullet_list li:before{top:30px}
+h3 .text_link,h5,.submenu [class*=col] .menubox ul.row>li{font-size:18px}
+.bullet_list li,.linkBox,.infra_initiative ul.sport_event li{font-size:18px}
+.submenu [class*=col] .menubox ul.row>li ul li{font-size:16px}
+.inner-page .container, .responsive_tabs .responsive-tabs,.responsive_tabs .tab-container .tab-content{padding-right: 110px;padding-left: 125px;}
+.inner_section.career_test .timeline ul li,.program_list ul li:first-child span{font-size:21px}
+.admission_login .left_panel .btn-link{font-size:18px}
+.careers-sec1 .career_sub_head { font-size: 36px;}
+.careers-sec1 .career_box {border-bottom:solid 1px #ccc; padding: 75px 0; height:230px}
+.careers-sec1 .career_box .img_left {float: left; margin-right: 57px}
+.careers-sec1 .career_sub_head2 {padding-top: 102px; padding-bottom: 50px;}
+.student_achiv_home .owl-nav {left:0; width:560px}
+ 
+
+ 
+}
+@media (min-width: 1600px){
+	.home-sec2 .home_slider_text{ padding-top:70px;}
+.testimonials_section{ height:440px;}
+.home-sec2 .theme-default a.nivo-nextNav {right: 460px;}
+.home-sec2 .owl-nav .owl-prev{ right:480px;}
+.home-ranking-amity .owl-carousel2{height:100%;}
+
+.home-ranking-colm1{ height:50%;}
+
+.home-ranking-colm1 ul{ padding-top:0;}
+.masthead .carousel-caption .container .col{padding-left:60px;padding-right: 14%;}
+.navbar-light .main-menu li a.nav-link{font-size: 21px;padding: .5rem 1.1rem;}
+.inner-page .container, .responsive_tabs .responsive-tabs,.responsive_tabs .tab-container .tab-content{padding-right: 0; padding-left:20px;max-width:1400px;width:100%;}
+.home-why-amity{ margin-right:auto;}
+.home-why-amity { margin: 170px auto 0;}
+.why-amity-right h3 {font-size:140px;}
+.home-why-amity h2 {font-size:40px;}
+.home-ranking-amity .owl-carousel1 ul li h3 {font-size:48px;}
+.home-ranking-amity .owl-carousel2 .item img {width:auto; margin:0 auto;}
+.home-sec3 .responsive-tabs-container .tab-pane{height:452px}
+ 
+.home-sec2 .carousel-indicators li { width:9%; text-align:center; padding:0 }
+.home-sec2 .secon_banner_campus {padding: 20px 20px; background: #000; color: #FFF; font-size: 16px;}
+.top_megamenu .mega_menu_left .apply_btn{font-size:20px}
+.top_megamenu .container.menu_items .slimScrollBar{background:#a9a9a9!important}
+.top_megamenu .container.menu_items .slimScrollRail{background:#bbb!important}
+ 
+}
+@media (min-width: 2200px){
+.home-why-amity { margin: 200px auto 0;}	
+	.home-ranking-amity .owl-carousel1 ul li{    padding-bottom: 50px;margin-bottom: 60px;}
+	.home-sec2 .carousel-indicators{width: 73.9%;}
+	
+	#mainNav.hasMegaMenu:before{max-width: 60.6%!important;width:100%;left:auto;}
+#mainNav .mega_menu{right:30px}
+}
+
+@media (min-width: 3001px){
+ #mainNav.hasMegaMenu:before{max-width: 50.5%!important;width:100%;left:auto;}
+ 
+}
+
+ 
+
+ 
+
+@media screen and (min-width:992px) and (max-width: 1024px){
+#mainNav .mega_menu{max-width:96%!important;}
+}
+@media screen and (min-width:1150px) and (max-width: 1200px){
+#mainNav .mega_menu{max-width:99%!important;}
+}
+@media screen and (min-width:1201px) and (max-width: 1280px){
+#mainNav .mega_menu{/* max-width: 105.6%!important; */width: 105%;}
+#mainNav.hasMegaMenu:before {
+    /* max-width: 71.4%!important; */
+}
+}
+ 
+ 
+@media screen and (min-width:1441px) and (max-width: 1600px){
+
+.mega_menu .menu_col4 {padding-left:0px;}
+.navbar-light .main-menu li a.nav-link{font-size: 17px;}
+.right_mega_menu ul li{padding:10px 0;}
+.right_mega_menu ul li a{font-size:16px;}
+ 
+}
+
+ 
+
+ 
+
+@media screen and (min-width:1800px) and (max-width: 2400px){
+ 
+#mainNav.inner-nav .mega_menu{max-width:calc(101% - 12px)!important;width:calc(132.3% - 18px);}
+.row.no-gutters.menu_col4.pl-5 {padding-left: 0rem!important;}
+.right_mega_menu ul li { padding:16px 0;}
+}
+
+
+
+@media screen and (min-width:1601px) and (max-width: 1710px){
+#mainNav .mega_menu {max-width:calc(103.3% - 12px)!important;}
+.navbar-light .main-menu li a.nav-link{font-size:18px} 
+#mainNav.inner-nav .mega_menu{max-width:calc(99.9% - 12px)!important;width:calc(132.3% - 18px);}
+.row.no-gutters.menu_col4.pl-5 {padding-left: 0rem!important;}
+.navbar-light .main-menu li a.nav-link {
+    font-size: 18px;
+    padding: .5rem 1.1rem;
+}
+.right_mega_menu ul li { padding:14px 0}
+.home-sec2 .carousel-indicators {left:7%!important;}
+.home-sec2 .carousel-indicators { width:77%;}
+.home-sec2 .carousel-indicators li a {padding:11px 0px 14px 0!important;}
+}
+
+
+@media only screen and (max-width: 1600px) {
+ 
+#mainNav.inner-nav .mega_menu{max-width:calc(102.4% - 12px)!important;width:calc(132.3% - 18px);}
+.row.no-gutters.menu_col4.pl-5 {padding-left: 0rem!important;}
+.navbar-light .main-menu li a.nav-link {
+    font-size: 16px;
+    padding: .5rem 1.1rem;
+}
+.right_mega_menu ul li { padding:14px 0}
+}
+
+
+@media screen and (min-width:1921px) and (max-width: 5400px){
+#mainNav.hasMegaMenu:before{width: 45.2%;left:auto;}	
+#mainNav .mega_menu{max-width: 100%!important;width: 180.4%;}
+.right_mega_menu ul li {padding:16px 0;}
+
+}
+@media screen and (min-width:1280px) and (max-width: 2700px){
+.last_date2, .slimScrollDiv,.slimScrollDiv .row.tab-panel{max-height:60vh;}
+.menu_col4 .w-100.pt-2{padding-top:0!important;height:20px!important;}
+}
+@media screen and (min-width:1900px) and (max-width:1920px){
+.home-sec1{padding-bottom:200px}
+.last_date2, .slimScrollDiv,.slimScrollDiv .row.tab-panel{max-height:48.8vh;}
+}
+@media screen and (min-width:2800px) and (max-width: 5400px) and (min-height:2000px){
+.last_date2, .slimScrollDiv,.slimScrollDiv .row.tab-panel{max-height:1000px;}
+.masthead .carousel-caption h2,.home-sec2 .why-amity-left .text_why2{font-size:3vh;line-height:3.6vh}
+.masthead .carousel-caption p,.top-home-sec1.row p,.top-home-sec1 ul li span,.tab-home-sec1 .nav-tabs li a,.tab-home-content input,.tab-home-content ul li,.home-sec2 .why_box .why-amity-left h3,.home-sec2 .why_box2 .owl-carousel1 ul li p,.stu-btn a,.home-sec4-colm1 ul li a,.home-sec4-colm2 ul li p,body,.home-sec4-colm3 .owl-carousel4 ul li h4,.home-sec6 .nav-tabs li a,.home-sec6 .happ-content span,.happ-content h4,.testimonials_section .nav-tabs li a,.testimonials-content h4,.testimonials-content p,footer h3,.beyond_color .head,.top_placements h3{font-size:2vh;line-height:2.2vh}
+.masthead .owl-theme .owl-dots .owl-dot span,.testimonials_section .owl-dots .owl-dot span{width:20px;height:20px;}
+[class*="home-sec"] .container,.testimonials_section .container-fluid,footer .container{max-width:90%}
+.home-sec1,.home-sec3,.home-sec4,.home-sec5,.home-sec6{height:auto;padding:280px 0;min-height:initial}
+.top-home-sec1.row h2{font-size:5vh}
+.top-home-sec1 ul li h3,.home-sec4-colm1 h2,.home-sec4-colm2 ul li h3{font-size:4vh}
+.home-sec2 .why-amity-left .text_why h4{font-size:1.5vh}
+.tab-home-content h3,.home-why-amity h2,.home-sec2 .why_box2 .owl-carousel1 ul li h3,.happ-content h3,.subscribe_pop h3,.teaching-faculty-detail-sec1 h3{font-size:2.5vh}
+.tab-home-content input,.tab-home-sec1 .nav-tabs li a{padding:1.3vh}
+.home-sec1 .tab-home-sec1 .search-bar .submit_btn{position:relative;top:1.3vh}
+.home-sec2 .slider-wrapper,.carousel-item,.home-sec2 #carouselExampleIndicators .carousel-item img{height:auto;}
+.home-sec2 .carousel-indicators,.secon_banner_campus{bottom:0;}
+.secon_banner_campus,.home-sec2 .carousel-indicators li a{font-size:1.4vh!important}
+.home-sec2 .carousel-indicators{left:177px;width:76%}
+.text_why-main{padding-top:10px}
+.why-amity-left a{font-size:1.8vh;width:500px;height:4vh}
+.home-ranking-amity .owl-carousel2 .item ul li span img{width:70%}
+.home-sec2 .carousel-control-prev-icon,.home-sec2 .carousel-control-next-icon{padding:1.5vh}
+.home-sec2 .owl-nav [class*=owl-],.home-sec4-colm3 .owl-nav [class*=owl-]{padding:1.7vh 2.2vh}
+.owl-nav .owl-prev:before,.owl-nav .owl-next:before,.home-sec2 .carousel-control-prev-icon,.home-sec2 .carousel-control-next-icon{zoom:2.5}
+.home-sec2 .home_slider_text .owl-nav .owl-next{left:5.7vh}
+.home-sec4-colm1 h2{max-width:100%}
+
+.home-sec4-colm1 h3{font-size:3vh}
+.home-sec4-colm3{max-width:100%}
+abbr.all-research-btn a img{position:relative;top:1vh}
+.home-sec4-colm3 .owl-carousel4 ul li h4:before{top:0.8vh}
+.home-sec5-content{clear:both}
+.home-sec6 abbr.all-achiv-btn{right:3vh}
+.happening-colm-img{max-height:100%;}
+.happening-colm-img span{height:24vh}
+.testimonials-content h3{font-size:2.5vh!important;padding-top:10vh}
+footer ul li a,footer .brand-icon li a,footer h4,footer p,.teaching-faculty-detail-sec1 .card-header,.beyond_color .head2,.beyond_color .head3,.top_placements .pleace,.top_placements .pleace2,.stalwarts_box .text_text,.stalwarts_box .text_text span{font-size:1.7vh;line-height:2.3vh}
+.footer_submit .btnsubmit,.subscribe,.modal-header button.close{zoom:2}
+.modal-dialog.modal-lg{max-width:50%;padding:2vh}
+.form-control,.subscribe_pop input[type=submit]{font-size:2vh;}
+select.form-control:not([size]):not([multiple]){height:calc(3.60vh + 2px)}
+.top_menubar>ul>li>a{padding-bottom:20px}
+#mainNav.fixed-top{top:50px}
+.inner-page p,.inner-page ul li,.academia-sec2 h5,.faculty-overview-sec1 h4,.faculty-overview-sec2 h4,.top-menu-sec h4,.top-menu-sec ul li a,.sbHolder,.teaching-faculty-detail-sec1 h4,.teaching-faculty-detail-sec1 h5,.teaching-faculty-detail-sec1 abbr{font-size:1.6vh;line-height:2.2vh}
+.owl-carousel10 .owl-stage-outer.owl-height{padding-top:3.7vh!important}
+.owl-carousel10 .infra_name{top:-3.6vh;right:115px;}
+.bullet_list li:before{top:50px;width:10px;height:10px;}
+.teaching-faculty-sec1 ul li img{width:100%}
+.sbHolder{width:10vh}
+.tab-home-content{padding:5vh}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,137 @@
+@CHARSET "UTF-8";
+.sbHolder{
+	font-family:'Open Sans', Helvetica, Arial, sans-serif;
+	color: #757575;
+	font-size: 14px;
+	font-weight: normal;
+	position: relative;
+	width:145px;
+	margin:5px;
+	float:left;
+	font-style:normal;
+	border:1px solid #bbb;
+	height:32px;
+}
+.sbSelector{
+	display: block;
+	height: 30px;
+	left: 0;
+	line-height: 30px;
+	outline: none;
+	overflow: hidden;
+	position: absolute;
+	text-indent: 10px;
+	top: 0;
+	width:90%;
+	white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.sbSelector:link, .sbSelector:visited, .sbSelector:hover{
+	color: #757575;
+	outline: none;
+	text-decoration: none;
+}
+.faculty-input{ position:relative;width:150px;margin:0 5px;float:left;}
+.faculty-select-main{display:none;}
+.faculty-select-main .faculty-input input{padding-bottom:5px}
+.sbToggle{
+	display: block;
+	height: 30px;
+	outline: none;
+	position: absolute;
+	right: 5px;
+	top: 0;
+	width: 30px;
+}
+.sbToggle:after{content: "\f107";
+    font-family: FontAwesome;
+    font-size: 20px;
+    position: absolute;
+    right: 0;
+    pointer-events: none;
+    top: 2px;
+    right: 0px;}
+.sbToggle:hover{
+
+}
+.sbToggleOpen{
+
+}
+.sbToggleOpen:hover{
+	
+}
+.sbHolderDisabled{
+	background-color: #3C3C3C;
+	border: solid 1px #515151;
+}
+.sbHolderDisabled .sbHolder{
+	
+}
+.sbHolderDisabled .sbToggle{
+	
+}
+.sbOptions{
+	background-color: #fff;
+	border: solid 1px #ccc;
+	list-style: none;
+	left: -1px;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 30px;
+	width:180px;
+	z-index: 1;
+	overflow-y: auto;
+	max-height:334px!important;
+	font-size: 14px!important;
+}
+.sbOptions li{
+	padding: 0;
+	font-size: 14px!important;
+}
+.sbOptions li:hover{
+	background-color: #194880;
+}
+.sbOptions li:hover a{
+	color: #fff;
+}
+.sbOptions li:first-child a{border-top:none}
+.sbOptions a{
+	border-top: solid 1px #ccc;
+	display: block;
+	outline: none;
+	padding: 7px 10px 7px 10px;
+	word-wrap: break-word;
+}
+.sbOptions a:link, .sbOptions a:visited{
+	font-family:'Open Sans', Helvetica, Arial, sans-serif;
+	color: #757575;
+	text-decoration: none;
+}
+.sbOptions a:hover{
+	color: #555;
+}
+.sbOptions li.last a{
+	border-bottom: none;
+}
+.sbOptions .sbDisabled{
+	border-top: solid 1px #515151;
+	color: #999;
+	display: block;
+	padding: 7px 0 7px 3px;
+}
+.sbOptions .sbGroup{
+	border-top: solid 1px #515151;
+	color: #EBB52D;
+	display: block;
+	font-weight: bold;
+	padding: 7px 0 7px 3px;
+}
+.sbOptions .sbSub{
+	padding-left: 17px;
+}
+@media screen and (max-width:425px){
+.sbHolder,.faculty-input{width:100%;float:none;margin:5px 0}
+.faculty-select-main .faculty-input input{margin-bottom:0}
+}

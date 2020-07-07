@@ -1,0 +1,124 @@
+.redtext {
+	color:Red;
+	font-weight:700
+}
+.error-box1 {
+	border:1px solid #d35755!important;
+	color:#333;
+	background:0 0!important
+}
+.error-box {
+	border:1px solid #d35755;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#f21a1a;
+	background:#feebeb;
+	margin:10px 0;
+	padding:10px 0;
+	width:100%;
+	float:left
+}
+.confirm-box, .notic-box {
+	border:none;
+	font:16px Arial, Helvetica, sans-serif;
+	background:url(../images/warning.html) 15px no-repeat #f7f7f7;
+	margin:0 0 10px;
+	display:block;
+	padding:25px 0 25px 52px;
+	list-style:none
+}
+.notic-box {
+	color:#0e7cb0;
+	font-weight:700
+}
+.confirm-box {
+	color:#afd148;
+	font-weight:700
+}
+.error, .notice {
+	font:16px Arial, Helvetica, sans-serif
+}
+.error-box ul {
+	padding-bottom:0
+}
+.error-box ul li {
+	background:url(../images/bult3.html) 0 4px no-repeat;
+	width:283px;
+	display:inline-block;
+	vertical-align:top;
+	padding-bottom:8px
+}
+.notice-box ul li {
+	background:url(../images/bult3.html) 0 4px no-repeat
+}
+.error, .notice, .success {
+	margin-bottom:1em
+}
+.error, .notice, .success, .successnonimage {
+	border:none;
+	background:url(../images/warning.html) 15px no-repeat #f7f7f7;
+	margin:0 0 10px;
+	display:block;
+	padding:25px 0 25px 52px;
+	list-style:none
+}
+.error {
+	color:#de4537;
+	font-weight:700
+}
+.notice {
+	color:#0e7cb0;
+	font-weight:700
+}
+.success, .successnonimage {
+	font:16px Arial, Helvetica, sans-serif;
+	color:#de4537;
+	font-weight:700
+}
+/*ul.wordWheel {
+	background-color:#eaeaea;
+	text-align:left;
+	overflow-y:scroll;
+	font-size:12px;
+	color:#000;
+	vertical-align:top;
+	margin:0;
+	height:250px;
+	padding:0;
+	width:87.4%!important;
+	border:1px solid #ddd;
+	cursor:pointer; position:absolute;
+}
+ul.wordWheel li {
+	list-style:none;
+	padding:5px 10px;
+	margin:0;
+	border-bottom:1px solid #f7f7f7
+}
+ul.wordWheel li:hover {
+	background:#d6de36;
+	color:#000
+}*/
+.validatorCalloutHighlight {
+	border:1px solid #eab715!important
+}
+.BlockPopup div, .BlockPopup td {
+	border:1px solid #000;
+	background-color:#00f;
+	display:none
+}
+.validationerror {
+	padding-top:4px;
+	display:block!important;
+	font-size:16px
+}
+.success-thankyou {
+	border:none;
+	font:16px Arial, Helvetica, sans-serif;
+	color:#0e7cb0;
+	background:url(../images/warning.html) 15px no-repeat #f7f7f7;
+	margin:0 0 10px;
+	display:block;
+	padding:25px 0 25px 52px;
+	list-style:none;
+	font-weight:700
+}
