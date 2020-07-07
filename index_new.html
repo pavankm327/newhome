@@ -2877,7 +2877,7 @@ General of Patents, GoI</p>
                                 <img src="img-1.jpg" alt="" class="img-responsive">
                             </div>
                             <h3 class="testimonial-title">
-                                Williamson
+                                Williamson1
                                 <small>Web Developer</small>
                             </h3>
                             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi facilisis.</p>
@@ -2918,7 +2918,7 @@ General of Patents, GoI</p>
                                 <img src="img-1.jpg" alt="" class="img-responsive">
                             </div>
                             <h3 class="testimonial-title">
-                                Williamson
+                                Williamson2
                                 <small>Web Developer</small>
                             </h3>
                             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi facilisis.</p>
@@ -2959,7 +2959,7 @@ General of Patents, GoI</p>
                                 <img src="img-1.jpg" alt="" class="img-responsive">
                             </div>
                             <h3 class="testimonial-title">
-                                Williamson
+                                Williamson3
                                 <small>Web Developer</small>
                             </h3>
                             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi facilisis.</p>
@@ -3035,13 +3035,32 @@ General of Patents, GoI</p>
 			autoPlay:true
 		});
 		
-		$("h4.collapsible_heading").on("click", function () {
-        var myElmt = $(this).parent('.tab-content');
-		alert(myElmt);
-        $('html, body').animate({
-            scrollTop: $(myElmt).offset().top - 70
-        }, 200);
-    });
+			$("h4.collapsible_heading").on("click", function () {
+			var tab2 = $(this).children('.tab-pane');
+			var myElmt = $(this).parent('.tab-content');
+			$('html, body').animate({
+				scrollTop: $(myElmt).offset().top - 70
+			}, 200);
+		});
+		
+		var wdt = $(window).width();
+		if(wdt<=991){
+		$("h4.collapsible_heading").click(function(){
+		if(false == $(this).next('.accordion-link').next('.tab-pane').is(':visible')){
+			if(false == $(this).parent().prevAll().find('.tab-pane').hasClass('open') || false == $(this).parent().nextAll().find('.tab-pane').is('open'))  {
+				$('.tab-pane').slideUp(300).removeClass('open');
+				$('h4.collapsible_heading.open').removeClass('open');
+				$(this).next('.accordion-link').next('.tab-pane').slideDown(300).addClass('open');
+				$(this).addClass('open');
+			}
+		}
+		else{
+			$(this).next('.accordion-link').next('.tab-pane').slideUp(300).removeClass('open');
+			$(this).removeClass('open');
+			}
+		});
+	}
+	
 	});
 </script>
 <style>
