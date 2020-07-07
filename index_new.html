@@ -3035,9 +3035,9 @@ General of Patents, GoI</p>
 			autoPlay:true
 		});
 		
-		$(".collapsible_heading").on("click", function () {
+		$("h4.collapsible_heading").on("click", function () {
         var myElmt = $(this).parent('.tab-content');
-
+		alert(myElmt);
         $('html, body').animate({
             scrollTop: $(myElmt).offset().top - 70
         }, 200);
