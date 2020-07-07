@@ -3034,6 +3034,14 @@ General of Patents, GoI</p>
 			singleItem:true,
 			autoPlay:true
 		});
+		
+		$(".collapsible_heading").on("click", function () {
+        var myElmt = $(this).parent('.tab-content');
+
+        $('html, body').animate({
+            scrollTop: $(myElmt).offset().top - 70
+        }, 200);
+    });
 	});
 </script>
 <style>
@@ -3047,14 +3055,6 @@ General of Patents, GoI</p>
 	}
 }
 </style>   
-<script>
-$(".collapsible_heading").on("click", function () {
-        var myElmt = $(this).parent('.tab-content');
-
-        $('html, body').animate({
-            scrollTop: $(myElmt).offset().top - 70
-        }, 200);
-    });
-</script>	
+	
 </body>
 </html>
