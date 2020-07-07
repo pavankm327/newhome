@@ -2863,9 +2863,10 @@ General of Patents, GoI</p>
 <ul class="nav nav-tabs responsive-tabs">
     <li class="active"><a href=".students">Students</a></li>
     <li><a href=".parents">Parents</a></li>
-    <li><a href=".alumni">Alumni</a></li>
+    <li><a href=".alumni">Industrialists</a></li>
 </ul>
 <div class="tab-content">
+
 	<h4 class="collapsible_heading open">Students <span class="lnr lnr-chevron-down"></span></h4>
     <div class="tab-pane active students">
         <div class="row">
@@ -2948,7 +2949,7 @@ General of Patents, GoI</p>
                 </div>
             </div>
     </div>
-	<h4 class="collapsible_heading">Alumni <span class="lnr lnr-chevron-down"></span></h4>
+	<h4 class="collapsible_heading">Industrialists<span class="lnr lnr-chevron-down"></span></h4>
     <div class="tab-pane alumni">
         <div class="row">
                 <div class="col-md-11 offset-md-1">
@@ -3045,6 +3046,15 @@ General of Patents, GoI</p>
     left: 8%;
 	}
 }
-</style>    
+</style>   
+<script>
+$(".collapsible_heading").on("click", function () {
+        var myElmt = $(this).parent('.tab-content');
+
+        $('html, body').animate({
+            scrollTop: $(myElmt).offset().top - 70
+        }, 200);
+    });
+</script>	
 </body>
 </html>
