@@ -365,7 +365,7 @@ abbr.all-achiv-btn a{ font-weight:600;}
 img.video-icon-home {float: left; padding-right: 20px;    position: absolute;right: 0; bottom: 20px;}
 .happening-btn {display: table;margin: 0 auto;}
 .happening-btn a{ display:block; padding:12px 40px; border:1px solid #808080; font-size:18px; font-weight:700;}
-.testimonials_section {width: 100%; background-color:#e3b121;position: relative; overflow: hidden;    z-index: 1;    height: 378px;}
+.testimonials_section {width: 100%; background-color:#2750a5;position: relative; overflow: hidden;    z-index: 1;    height: 378px;}
 .testimonials_section .container-fluid {max-width: 1540px; padding:0; position:relative;    padding-right:70px;}
 .testimonials-content h3{ color:#191919; font-size:24px; font-weight:300; padding-top:120px; padding-bottom:30px;}
 .testimonials-content h4{ color:#191919; font-size:18px; font-weight:700;  padding-bottom:10px;}
@@ -373,7 +373,7 @@ img.video-icon-home {float: left; padding-right: 20px;    position: absolute;rig
 .testimonials_section .nav-tabs{    position: absolute; top:10%;z-index: 99; border-bottom:none; left:28%;}
 .testimonials_section .nav-tabs li a{ font-size:14px; font-weight:700; padding:10px 20px; background-color:#b68e1a; color:#fff; display:block; position:relative;}
 .testimonials_section .nav-tabs li.active a{ background-color:#000;}
-.testimonials_section .nav-tabs li.active a:before{content: ""; background-image:url(../images/home-testi-hover.png); width:15px; height:12px;    position: absolute;bottom: -11px; right: 0;} 
+/*.testimonials_section .nav-tabs li.active a:before{content: ""; background-image:url(../images/home-testi-hover.png); width:15px; height:12px;    position: absolute;bottom: -11px; right: 0;} */
 .testimonials_section .owl-nav{ display:none;}
 .testimonials_section .owl-dots{    position: absolute;right:-10px; top: 48%;}
 .testimonials_section .owl-dots .owl-dot{ display:block;}
@@ -394,8 +394,8 @@ img.video-icon-home {float: left; padding-right: 20px;    position: absolute;rig
 .home-sec4-colm1 ul li a:hover{opacity:.7;}
 abbr.all-research-btn a:hover{opacity:.7;}
 .testimonials_section .nav-tabs li a:hover{ background-color:#000;}
-.testimonials_section .nav-tabs li a:hover:before {content: ""; background-image: url(../images/home-testi-hover.png); width: 15px; height: 12px;
- position: absolute;bottom: -11px; right: 0;}
+/*.testimonials_section .nav-tabs li a:hover:before {content: ""; background-image: url(../images/home-testi-hover.png); width: 15px; height: 12px;
+ position: absolute;bottom: -11px; right: 0;}*/
 footer ul li a:hover{ color: #ffffff;}
 .ftr-colm1 { max-width: 13%; -ms-flex: 13%; flex: 13%;}
 .ftr-colm2{max-width: 23%;    -ms-flex: 23%; flex: 23%;}
