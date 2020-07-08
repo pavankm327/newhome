@@ -73,10 +73,10 @@
 .owl-theme .owl-controls .owl-page.active span,
 .owl-theme .owl-controls .owl-page span{
     width: 7px;
-    height: 7px;
-    background: #2b9464;
+    height: 0px;
+    /*background: #2b9464;
     border: 4px solid #7ccba7;
-    box-sizing: content-box;
+    box-sizing: content-box;*/
 }
 
 .owl-theme .owl-controls .owl-page span{
