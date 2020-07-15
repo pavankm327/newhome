@@ -13,7 +13,7 @@
     line-height: 200px;
 	/*top: 1px;
     border-radius: 50%;*/
-    border: 8px solid #2b9464;
+    border: 3px solid #2b9464;
     position: absolute;
     left: -100px;
     overflow: hidden;
@@ -41,6 +41,7 @@
 }
 
 .testimonial .description{
+	text-align:justify;
     display: inline-block;
     width: 65%;
     font-size: 15px;
