@@ -454,7 +454,7 @@ footer p a{ color:#CCC;}
 .close_btn{background:url(../images/sprite.png) no-repeat 0px -453px;width: 24px;height: 23px;display: block;position:absolute;top:53px;right:23px;z-index:1000;-webkit-transition:all .3s;-moz-transition:all .3s;transition:all .3s}
 .close_btn2.selected{background: url(../images/sprite.png) no-repeat 0px -305px;width: 18px;height: 18px;top: 30px;}
 .close_btn2{background:url(../images/cross-btn.png) no-repeat 0 0;width: 17px;height: 18px;display: block;position:absolute;top:10px;right:20px;z-index:1000;-webkit-transition:all .3s;-moz-transition:all .3s;transition:all .3s}
-#mainNav.navbar-shrink{padding-top: 8px;padding-bottom: 0;background: #363636;z-index: 999999;}
+#mainNav.navbar-shrink{padding-top: 8px;padding-bottom: 0;background: #003060;z-index: 999999;}
 #mainNav:before{content:'';background:none;position:absolute;top:0;left:0;right:0;margin-top:100px;height:1px;}
 #mainNav.hasMegaMenu:before{background:#000;margin-top:0;height:120px;}
 .inner-page .container, .responsive_tabs .responsive-tabs,.responsive_tabs .tab-container .tab-content{max-width:100%; width: 100%;     padding-right: 90px;padding-left: 115px;}
@@ -881,7 +881,7 @@ p.lead,.content-section p.lead{font-size:21px;padding-top:30px;padding-bottom:0}
 .home-sec2-campus ul { background-color: rgba(0, 0, 0, 0.8); width: 100%; position: relative;display: table;}
 .life-ul-img { height: 50%; padding-top: 10px; width: 100%; display: block; overflow:hidden;}
 .life-ul-img span{ width:100%; display:block; height:100%;}
-.navbar-shrink .logo {overflow: hidden;width: 60px;}
+.navbar-shrink .logo {overflow: inherit;width: 60px;}
 .navbar-shrink ul.navbar-nav{    margin-top: -7px;}
 .home-ranking-colm1{ position:relative; height:60%;    background-color: rgba(0, 0, 0, 0.4);}
 .home-ranking-colm2{ position:relative; height:100%;}
